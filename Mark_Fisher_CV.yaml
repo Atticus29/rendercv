@@ -1,0 +1,227 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Mark Fisher
+  headline: Software Developer and Biologist/Educator with a Ph.D. in Population Genetics. Meticulous problem-solver aiming to contribute code to meaningful causes.
+  location: Portland, OR
+  email: mark.aaron.fisher@gmail.com
+  photo:
+  phone: +1-609-577-9078
+  website:
+  social_networks:
+    - network: GitHub
+      username: Atticus29
+    - network: LinkedIn
+      username: mark-a-fisher
+  custom_connections:
+    - fontawesome_icon: location-dot
+      placeholder: 9421 N. Portsmouth Ave. Portland, OR
+      url:
+  sections:
+    education:
+      - institution: University of Georgia
+        area: Genetics
+        degree: Ph.D
+        date:
+        start_date: 2007-08
+        end_date: 2013-08
+        location: Athens, GA
+        summary:
+        highlights:
+      - institution: Yale University
+        area: Ecology and Evolutionary Biology
+        degree: B.S.
+        date:
+        start_date: 2003-08
+        end_date: 2007-05
+        location: New Haven, CT
+        summary:
+        highlights:
+      - institution: Epicodus
+        area: javaScript/Java/Android track
+        degree:
+        date:
+        start_date: 2017-03
+        end_date: 2017-08
+        location: Portland, OR
+        summary:
+        highlights:
+
+    experience:
+      - company: Symbiota
+        position: Full-time Software Engineer
+        date: 
+        start_date: 2023-02
+        end_date: present
+        location: Portland, OR
+        summary:
+        highlights:
+          - Authored 313 Pull requests
+          - "[Java and JSP] Projects feature: Co-led creation of a feature allowing researchers to group wildlife image Encounters into subsets and match individuals only from within that subset"
+          - "[Java and JSP] User de-duplication: Leading the effort to de-duplicate users from existing databases as the team migrates to a new Python-based framework (Flask)"
+
+      - company: WildMe
+        position: Full-time Software Engineer
+        date:
+        start_date: 2020-06
+        end_date: 2023-10
+        location: Portland, OR
+        summary:
+        highlights:
+          - Contributor to WildMe's flagship product, Wildbook, instances of which provide computer vision services to wildlife researchers on projects including sea turtles, leafy seadragons, giant sea bass, humpback whales, manta rays, whale sharks, sevengill sharks, and more
+          - "[Java and JSP] Projects feature: Co-led creation of a feature allowing researchers to group wildlife image Encounters into subsets and match individuals only from within that subset"
+          - "[Java and JSP] User de-duplication: Leading the effort to de-duplicate users from existing databases as the team migrates to a new Python-based framework (Flask)"
+
+      - company: WildMe
+        position: Contract Software Developer
+        date:
+        start_date: 2018-12
+        end_date: 2019-02
+        location: Portland, OR
+        summary:
+        highlights:
+          - Established integration testing for WildMe's WildBook repository as well as for an existing deployment of WildBook called FlukeBook (flukebook.org)
+          - Documented the scope and detail of above testing through a series of YouTube tutorial videos
+          - "[javaScript: Cypress] WildMeCypress: A suite of integration tests using the Cypress framework. Continuous Integration implemented on circleCI"
+
+      - company: WildMe
+        position: Contract Software Developer
+        date:
+        start_date: 2017-12
+        end_date: 2018-02
+        location: Portland, OR
+        summary:
+        highlights:
+          - Completed the whale fluke twitterbot project begun during internship
+          - 'Presented completed project at the 2018 Ocean Sciences Meeting in Portland, OR, entitled, "Wildbook: Finding High Quality Mark-Recapture Data for Whales and Sharks on Twitter and YouTube Using Multiple Forms of Machine Learning"'
+          - "[Java] FlukeBot: A Twitterbot that attempts to identify humpback whale individuals from images of flukes"
+
+      - company: WildMe
+        position: Intern
+        date:
+        start_date: 2017-07
+        end_date: 2017-08
+        location: Portland, OR
+        summary:
+        highlights:
+          - Began work on a twitterbot to engage citizens with FlukeBook by running tweeted images through image detection and identification algorithms, recording any whale flukes detected in the FlukeBook database, and then tweeting the results back to the end user
+          - "[Java] FlukeBot: Contributions to a Twitterbot that attempts to identify humpback whale individuals from images of flukes"
+          - Wrote a supplementary tutorial assisting with setup of instances of WildBook for future interns
+          - Gained familiarity with essential components of WildMe's code base within the four-week internship period, and contributed code to several of them
+
+      - company: Bioinformatics Core, Oregon Health and Science University
+        position: Computational Biologist
+        date:
+        start_date: 2015-11
+        end_date: 2017-01
+        location: Portland, OR
+        summary:
+        highlights:
+          - Worked effectively with a team to deliver reports and reproducible underlying code for clients for both the Bioinformatics Core and Integrated Genomics Laboratory, in the form of Knitr reports
+          - Developed and organized code-sharing practices and repositories for the Bioinformatics Core
+          - Improved data management, workflow, organization, and client delivery for the Integrated Genomics Laboratory, including creating a Java GUI for technicians in the lab
+          - "[Java/NetBeans] IGLToolkit: A GUI for processing data generated by Affymetrix Expression Console as well as some meta-data, rendering them as a preliminary Array Performance Summary (APS) used by the Integrated Genomics Laboratory (IGL) for client reports"
+
+      - company: Discover Life
+        position: Research Associate
+        date:
+        start_date: 2013-08
+        end_date: 2014-01
+        location: Monteverde, Puntarenas, Costa Rica
+        summary:
+        highlights:
+          - Studied questions related to species delimitation and phenological variation of moth species across North and Central America
+          - This involved nightly photograph sampling and identification of local moth diversity and collection of 40 target species of interest, as well as discovery-based inquiry of a large dataset using R
+
+    projects:
+      - name: DraggleSimulator
+        date:
+        start_date: 2019-01
+        end_date: 2019-07
+        location:
+        summary: Open-source simulation webapp that allows students to simulate and explore difficult population genetics concepts.
+        highlights:
+          - Published in a peer reviewed open-source software journal called JOSE (The Journal of Open Source Education) in November 2019
+          - Designed to address lack of affordable tools available that use best teaching practices
+          - Teaches students about genetic drift
+          - "[TypeScript: Angular] DraggleSimulator Project on Github"
+          - Current live deployment uses several AWS services
+          - Showcases cleanliness of code
+          - Showcases use of AWS services such as DynamoDB, Route53, S3, and CloudFront
+          - Showcases ability to document a project, including README, tutorial video, specs.md, and bugs.md
+
+      - name: AnnotateVid.Io
+        date:
+        start_date: 2017-11
+        end_date: present
+        location:
+        summary: Platform that allows users to crowd-annotate videos. Ongoing passion project.
+        highlights:
+          - "[TypeScript: Angular] AnnotateVid.Io Project on Github"
+          - Current live deployment uses several AWS services
+          - Features extensive integration testing using Cypress
+          - Features CI using CircleCI
+
+    publications:
+      - title: "Flukebook: an open-source AI platform for cetacean photo identification"
+        authors:
+          - Blount, D.
+          - Gero, S.
+          - Van Oast, J.
+          - et al.
+        summary:
+        doi: 10.1007/s42991-021-00221-3
+        url: https://doi.org/10.1007/s42991-021-00221-3
+        journal: "Mamm Biol 102, 1005–1023"
+        date: 2022
+        
+      - title: "DraggleSimulator: An Open Source Web Application for Teaching Genetic Drift"
+        authors:
+          - "*Fisher, M.A.*"
+        summary:
+        doi: 10.21105/jose.00070
+        url: https://doi.org/10.21105/jose.00070
+        journal: Journal of Open Source Education, 2(21), 70
+        date: 2019
+
+      - title: "HeFPipe: An analytical pipeline for heterozygosity-fitness correlations"
+        authors:
+          - "*Fisher, M.A.*"
+        summary:
+        doi: 10.1111/1755-0998.12160
+        url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.12160
+        journal: Molecular Ecology Resources
+        date: 2014
+
+      - title: "The roles of genetic diversity and SinV-2 viral infection in fitness of the invasive fire ant Solenopsis invicta"
+        authors:
+          - "*Fisher, M.A.*"
+        summary: Doctoral Dissertation
+        doi:
+        url: https://getd.libs.uga.edu/pdfs/fisher_mark_a_201308_phd.pdf
+        journal: University of Georgia
+        date: 2013
+
+    conference_presentations:
+      - reversed_number: "November 2025 — Entomological Society of America, Portland, OR — Presentation: Fisher, M., Walker, L., Gilbert, E., Orellana, S., Pearson, K., Post, G., Salikov, N., Wilt, L., Yost, J., & Franz, N. Leveraging new Symbiota features to extend specimen data in existing biocollections."
+      - reversed_number: "May 2025 — Society for the Preservation of Natural History Collections Demo Camp, Lawrence, KS, Hybrid — Demo: Fisher, M., Pearson, K., Post, G., Salikov, N., Wilt, L., & Gilbert, E. Symbiota 3.2: more tools for managing and sharing extended specimen data."
+      - reversed_number: "February 2018 — Ocean Sciences Meeting, Portland, OR — Presentation: Fisher, M.A., Holmberg, J., Wainner, C., Van Oast, J., Berger-Wolf, T., Stewart, C., Wildbook: Finding High Quality Mark-Recapture Data for Whales and Sharks on Twitter and YouTube Using Multiple Forms of Machine Learning."
+      - reversed_number: "June 2013 — Evolution, Snowbird, UT — Presentation: Fisher, M.A., Ross, K., Shoemaker, D. Fitness costs of SINV-1 and SINV-2 viral infections on incipient queens and colonies of the invasive fire ant, Solenopsis invicta."
+      - reversed_number: "March 2012 — The University of Georgia Graduate Student Association 2012 Interdisciplinary Conference, Athens, GA — Poster: Fisher, M.A., D. Promislow. Applying WIP [Writing Intensive Program] principles to oral presentations."
+      - reversed_number: "September 2010 — Southeastern Population Ecology and Evolutionary Genetics (SEPEEG), Madison, FL — Presentation: Fisher, M.A., K. Ross. Heterozygosity-fitness associations in the invasive fire ant, Solenopsis invicta: early hints of cryptic inbreeding?"
+
+    skills:
+      - label: Languages
+        details: TypeScript (Angular2+), R (Knitr, BioConductor), Java, Android Development (Java), JavaScript (Ember.js, jQuery), Bash/Shell scripting, Python
+      - label: Tools
+        details: End-to-end testing (Cypress), CI/CD (CircleCI), No-SQL databases (Firebase, including geoFire, authentication, and cloud functions), SQL (PostgreSQL), Job scheduler (HTCondor), Test-driven and Behavior-driven Development, GUI Design (Java-NetBeans), AWS
+
+    other_interests:
+      - bullet: Black belt in Brazilian Jiu-Jitsu (20 years and counting)
+      - bullet: Beekeeper
+      - bullet: Carnivorous plant enthusiast
+      - bullet: Homesteading
+      - bullet: Aquarium owner (freshwater and saltwater)
+      - bullet: Member of the Portland Timberfish (LGBT Masters Swimming Program)
+
+design:
+  theme: classic
