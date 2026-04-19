@@ -36,15 +36,6 @@ cv:
         location: New Haven, CT
         summary:
         highlights:
-      - institution: Epicodus
-        area: javaScript/Java/Android track
-        degree:
-        date:
-        start_date: 2017-03
-        end_date: 2017-08
-        location: Portland, OR
-        summary:
-        highlights:
 
     experience:
       - company: Symbiota
@@ -55,9 +46,9 @@ cv:
         location: Portland, OR
         summary:
         highlights:
-          - Authored 313 Pull requests
-          - "[Java and JSP] Projects feature: Co-led creation of a feature allowing researchers to group wildlife image Encounters into subsets and match individuals only from within that subset"
-          - "[Java and JSP] User de-duplication: Leading the effort to de-duplicate users from existing databases as the team migrates to a new Python-based framework (Flask)"
+          - Authored [313 Pull requests](https://github.com/Symbiota/Symbiota/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29)
+          - TODO
+          - TODO
 
       - company: WildMe
         position: Full-time Software Engineer
@@ -173,7 +164,7 @@ cv:
         url: https://doi.org/10.1007/s42991-021-00221-3
         journal: "Mamm Biol 102, 1005–1023"
         date: 2022
-        
+
       - title: "DraggleSimulator: An Open Source Web Application for Teaching Genetic Drift"
         authors:
           - "*Fisher, M.A.*"
