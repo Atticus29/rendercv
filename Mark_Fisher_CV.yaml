@@ -39,7 +39,7 @@ cv:
 
     experience:
       - company: Symbiota
-        position: Full-time Software Engineer
+        position: Full-time Software Engineer/Development Team Manager
         date: 
         start_date: 2023-02
         end_date: present
@@ -47,8 +47,9 @@ cv:
         summary:
         highlights:
           - Authored [313 Pull requests](https://github.com/Symbiota/Symbiota/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29)
-          - TODO
-          - TODO
+          - Mentored 3 student developers on various projects, including code review and pair programming, most recently collaborating on and managing one student's creation of an internal product, [Symbiota Services](https://github.com/Symbiota/SymbiotaServices)
+          - Created the [versioned and translated documentation for Symbiota](https://github.com/Symbiota/Symbiota-Documentation)
+          - Established 508 compliance for Symbiota's user interface
 
       - company: WildMe
         position: Full-time Software Engineer
@@ -61,6 +62,7 @@ cv:
           - Contributor to WildMe's flagship product, Wildbook, instances of which provide computer vision services to wildlife researchers on projects including sea turtles, leafy seadragons, giant sea bass, humpback whales, manta rays, whale sharks, sevengill sharks, and more
           - "[Java and JSP] Projects feature: Co-led creation of a feature allowing researchers to group wildlife image Encounters into subsets and match individuals only from within that subset"
           - "[Java and JSP] User de-duplication: Leading the effort to de-duplicate users from existing databases as the team migrates to a new Python-based framework (Flask)"
+          - "[React and TypeScript] Front-end development: Contributed significantly to the front-end code base for Wildbooks (now-archived) spinoff product, [Codex](https://github.com/WildMeOrg/codex-frontend)"
 
       - company: WildMe
         position: Contract Software Developer
@@ -75,27 +77,14 @@ cv:
           - "[javaScript: Cypress] WildMeCypress: A suite of integration tests using the Cypress framework. Continuous Integration implemented on circleCI"
 
       - company: WildMe
-        position: Contract Software Developer
+        position: Intern (until 2017-08) / Contract Software Developer
         date:
-        start_date: 2017-12
+        start_date: 2017-07
         end_date: 2018-02
         location: Portland, OR
         summary:
         highlights:
-          - Completed the whale fluke twitterbot project begun during internship
-          - 'Presented completed project at the 2018 Ocean Sciences Meeting in Portland, OR, entitled, "Wildbook: Finding High Quality Mark-Recapture Data for Whales and Sharks on Twitter and YouTube Using Multiple Forms of Machine Learning"'
           - "[Java] FlukeBot: A Twitterbot that attempts to identify humpback whale individuals from images of flukes"
-
-      - company: WildMe
-        position: Intern
-        date:
-        start_date: 2017-07
-        end_date: 2017-08
-        location: Portland, OR
-        summary:
-        highlights:
-          - Began work on a twitterbot to engage citizens with FlukeBook by running tweeted images through image detection and identification algorithms, recording any whale flukes detected in the FlukeBook database, and then tweeting the results back to the end user
-          - "[Java] FlukeBot: Contributions to a Twitterbot that attempts to identify humpback whale individuals from images of flukes"
           - Wrote a supplementary tutorial assisting with setup of instances of WildBook for future interns
           - Gained familiarity with essential components of WildMe's code base within the four-week internship period, and contributed code to several of them
 
@@ -122,6 +111,50 @@ cv:
         highlights:
           - Studied questions related to species delimitation and phenological variation of moth species across North and Central America
           - This involved nightly photograph sampling and identification of local moth diversity and collection of 40 target species of interest, as well as discovery-based inquiry of a large dataset using R
+
+    teaching_experience:
+      - company: Portland Community College
+        position: Adjunct Biology Instructor
+        date:
+        start_date: 2017-04
+        end_date: present
+        location: Portland, OR
+        summary:
+        highlights:
+          - "Biology 200B — Principles of Ecology: Field Biology in Costa Rica (Lecture and Laboratory) [Summer 2022]"
+          - "Environmental Studies 171 — Environmental Science: Biological Perspective in Costa Rica (Lecture and Laboratory) [Summer 2022]. Rescheduled from summer 2020 due to COVID-19; achieved full enrollment before cancellation"
+          - "Biology 213 — Principles of Biology (Lecture and Laboratory) [Spring 2019] | [Syllabus](https://github.com/Atticus29/pcc_biology_213/blob/master/README.md)"
+          - "Biology 212 — Principles of Biology (Lecture and Laboratory) [Winter 2018; Spring 2020 Online] | [Syllabus](https://github.com/Atticus29/pcc_biology_212/blob/winter2019/syllabus.md). Designed, delivered, and assessed weekly experimental prompts including a [COVID-19 phylogenetics exercise](https://docs.google.com/document/d/1jjpxktjhblmnvHcLkQPzIOmPjuN-h3hi6PNW_5ghixE/edit?usp=sharing)"
+          - "Biology 211 — Principles of Biology (Lecture and Laboratory) [Fall 2018; Winter 2020] | [Syllabus](https://github.com/Atticus29/pcc_biology_211/blob/master/README.md)"
+          - "Biology 112 — Cell Biology for Health Occupations (Lecture and Laboratory) [Summer 2018; Fall 2019] | [Syllabus](https://github.com/Atticus29/pcc_biology_112/blob/master/README.md)"
+          - "Biology 101 — Biology (Lecture and Laboratory) [Spring 2017; Fall 2017; Winter 2018; Spring 2018] | [Syllabus](https://github.com/Atticus29/pcc_biology_101/blob/master/README.md)"
+
+      - company: Clark College
+        position: Adjunct Biology Instructor
+        date:
+        start_date: 2017-09
+        end_date: present
+        location: Vancouver, WA
+        summary:
+        highlights:
+          - "Biology 101 — Environmental Biology (Lecture and Laboratory) [Fall 2017 – Spring 2020] | [Syllabus](https://github.com/Atticus29/clark_bio_101/blob/master/Essential_course_documents/README.md). Designed experimental protocols including a [population fragmentation simulation lab](https://docs.google.com/document/d/1L7zTHOjGEFYhk9RqHBIfXmPGjMSM5U16rQsVDp3zmmw/edit?usp=sharing) from scratch"
+          - Involved students in local environmental community service including Clark College's native plant nursery, a restoration site in the St. Cloud Day area, and Steigerwald Lake National Wildlife Refuge
+          - "Biology 160 — General Biology (Lecture and Laboratory) [Summer 2018] | [Syllabus](https://github.com/Atticus29/clark_bio_160/blob/master/README.md). Designed a [data visualization and interpretation lab](https://docs.google.com/document/d/1Ao3R8yJffz6u2-ChJdpwj-CLrhfA493P2jL01m9vL6E/edit?usp=sharing) from scratch"
+
+      - company: Washington State University Vancouver
+        position: Adjunct Biology Instructor
+        date:
+        start_date: 2014-01
+        end_date: 2016-01
+        location: Vancouver, WA
+        summary:
+        highlights:
+          - "Biology 301 — Genetics [Fall 2014 (63 students); Fall 2015 (57 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5cWdtQlpTWDlLZVU/view). Team-taught; coordinated course design with a co-instructor and managed a teaching assistant"
+          - "Biology 438[M] — Animal Behavior, Writing Intensive [Fall 2014 (29 students); Fall 2015 (19 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5NG1XUE8zNlNFeEk/view). Selected weekly original research articles for discussion; provided multiple rounds of written and oral feedback on student research projects"
+          - "Biology 438L — Animal Behavior Laboratory [Fall 2014–2015] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5NG1XUE8zNlNFeEk/view). Independently designed weekly inquiry-based experimental protocols; led students through independent research projects with emphasis on science communication and frequent written feedback"
+          - "Entomology 103 — Discover Insects: Laboratory for Non-Science Majors [Maymester 2015 (7 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5eTN2anUzbUIzWnM/view). Designed course entirely from scratch"
+          - "Biology 403 — Evolutionary Biology [Spring/Summer 2014; Spring/Summer 2015 (up to 71 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5ZXh6UW1BV0dhSlk/view). Generated all lectures, TopHat activities, and assessments from scratch; coordinated with a teaching assistant"
+          - "Biology 499 — Special Problems in Biology (Independent Research) [Fall 2014; Spring–Fall 2015 (2–3 students each)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqH4WkFTaWRXd1phdEE/view). Mentored undergraduates on projects including CRISPR-Cas9 gene knockout in honey bees, a Washington State Beekeepers Association grant proposal, fish behavior tracking using EthoVision XT, and literature reviews on HIV/PrEP dynamics and invasive lionfish management"
 
     projects:
       - name: DraggleSimulator
@@ -205,6 +238,10 @@ cv:
         details: TypeScript (Angular2+), R (Knitr, BioConductor), Java, Android Development (Java), JavaScript (Ember.js, jQuery), Bash/Shell scripting, Python
       - label: Tools
         details: End-to-end testing (Cypress), CI/CD (CircleCI), No-SQL databases (Firebase, including geoFire, authentication, and cloud functions), SQL (PostgreSQL), Job scheduler (HTCondor), Test-driven and Behavior-driven Development, GUI Design (Java-NetBeans), AWS
+      - label: Teaching Certifications
+        details: University of Georgia Interdisciplinary Certificate in University Teaching (2012)
+      - label: Teaching Tools
+        details: "LMS: Angel, BlackBoard, Canvas, D2L; Student Response Systems: TopHat (Spring 2014–Fall 2015), Socrative (April 2017–present)"
 
     other_interests:
       - bullet: Black belt in Brazilian Jiu-Jitsu (20 years and counting)
