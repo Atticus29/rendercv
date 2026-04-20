@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Mark Fisher
-  headline: Software Developer and Biologist/Educator with a Ph.D. in Population Genetics. Meticulous problem-solver aiming to contribute code to meaningful causes.
+  headline: Software Engineer, Biologist, and Educator with a Ph.D. in Population Genetics aiming to contribute code to meaningful causes.
   location: Portland, OR
   email: mark.aaron.fisher@gmail.com
   photo:
@@ -38,20 +38,22 @@ cv:
         highlights:
 
     experience:
-      - company: Symbiota
-        position: Full-time Software Engineer/Development Team Manager
+      - company: "[Symbiota](https://symbiota.org/)"
+        position: Full-time Software Engineer/Development Team Manager (since 2026-02)
         date: 
         start_date: 2023-02
         end_date: present
         location: Portland, OR
         summary:
         highlights:
-          - Authored [313 Pull requests](https://github.com/Symbiota/Symbiota/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29)
+          - "[PHP] Authored [313 Pull requests](https://github.com/Symbiota/Symbiota/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29)"
+          - "[Laravel] Authored [5 Pull Requests](https://github.com/Symbiota/Symbiota-Laravel/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in the Laravel-based Symbiota-Laravel repository, which is represents Symbiota's very recent effort to modernize the code base"
+          - "[Laravel] Authored or co-authored [22 Pull Requests](https://github.com/Symbiota/SymbiotaServices/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in the Laravel-based SymbiotaServices repository, which respresents an internal product to assist with invoice generation and tracking (see below)"
           - Mentored 3 student developers on various projects, including code review and pair programming, most recently collaborating on and managing one student's creation of an internal product, [Symbiota Services](https://github.com/Symbiota/SymbiotaServices)
           - Created the [versioned and translated documentation for Symbiota](https://github.com/Symbiota/Symbiota-Documentation)
-          - Established 508 compliance for Symbiota's user interface
+          - Established 508 compliance for Symbiota's user interface, among many other sub-projects
 
-      - company: WildMe
+      - company: "[WildMe](https://www.wildme.org/)"
         position: Full-time Software Engineer
         date:
         start_date: 2020-06
@@ -59,12 +61,10 @@ cv:
         location: Portland, OR
         summary:
         highlights:
-          - Contributor to WildMe's flagship product, Wildbook, instances of which provide computer vision services to wildlife researchers on projects including sea turtles, leafy seadragons, giant sea bass, humpback whales, manta rays, whale sharks, sevengill sharks, and more
-          - "[Java and JSP] Projects feature: Co-led creation of a feature allowing researchers to group wildlife image Encounters into subsets and match individuals only from within that subset"
-          - "[Java and JSP] User de-duplication: Leading the effort to de-duplicate users from existing databases as the team migrates to a new Python-based framework (Flask)"
-          - "[React and TypeScript] Front-end development: Contributed significantly to the front-end code base for Wildbooks (now-archived) spinoff product, [Codex](https://github.com/WildMeOrg/codex-frontend)"
+          - "[JSP and Java] Authored [122 Pull Requests](https://github.com/WildMeOrg/Wildbook/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in WildMe's flagship product, [Wildbook](https://github.com/WildMeOrg/Wildbook), instances of which provide computer vision services to wildlife researchers on projects including sea turtles, leafy seadragons, humpback whales, whale sharks, and many more species"
+          - "[React and TypeScript] Authored [119 Pull Requests](https://github.com/WildMeOrg/codex-frontend/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) significantly to the front-end code base for Wildbook's (now-archived) spinoff product, [Codex](https://github.com/WildMeOrg/codex-frontend)"
 
-      - company: WildMe
+      - company: "[WildMe](https://www.wildme.org/)"
         position: Contract Software Developer
         date:
         start_date: 2018-12
@@ -76,7 +76,7 @@ cv:
           - Documented the scope and detail of above testing through a series of YouTube tutorial videos
           - "[javaScript: Cypress] WildMeCypress: A suite of integration tests using the Cypress framework. Continuous Integration implemented on circleCI"
 
-      - company: WildMe
+      - company: "[WildMe](https://www.wildme.org/)"
         position: Intern (until 2017-08) / Contract Software Developer
         date:
         start_date: 2017-07
@@ -88,7 +88,7 @@ cv:
           - Wrote a supplementary tutorial assisting with setup of instances of WildBook for future interns
           - Gained familiarity with essential components of WildMe's code base within the four-week internship period, and contributed code to several of them
 
-      - company: Bioinformatics Core, Oregon Health and Science University
+      - company: Bioinformatics Core, [Oregon Health and Science University](https://www.ohsu.edu/)
         position: Computational Biologist
         date:
         start_date: 2015-11
@@ -99,91 +99,38 @@ cv:
           - Worked effectively with a team to deliver reports and reproducible underlying code for clients for both the Bioinformatics Core and Integrated Genomics Laboratory, in the form of Knitr reports
           - Developed and organized code-sharing practices and repositories for the Bioinformatics Core
           - Improved data management, workflow, organization, and client delivery for the Integrated Genomics Laboratory, including creating a Java GUI for technicians in the lab
-          - "[Java/NetBeans] IGLToolkit: A GUI for processing data generated by Affymetrix Expression Console as well as some meta-data, rendering them as a preliminary Array Performance Summary (APS) used by the Integrated Genomics Laboratory (IGL) for client reports"
+          - "[Java/NetBeans] [IGLToolkit](https://github.com/Atticus29/IGLToolKit): A GUI for processing data generated by Affymetrix Expression Console as well as some meta-data, rendering them as a preliminary Array Performance Summary (APS) used by the Integrated Genomics Laboratory (IGL) for client reports"
 
-      - company: Discover Life
+      - company: "[Discover Life](https://www.discoverlife.org/)"
         position: Research Associate
         date:
         start_date: 2013-08
         end_date: 2014-01
-        location: Monteverde, Puntarenas, Costa Rica
+        location: Monteverde, Costa Rica
         summary:
         highlights:
           - Studied questions related to species delimitation and phenological variation of moth species across North and Central America
           - This involved nightly photograph sampling and identification of local moth diversity and collection of 40 target species of interest, as well as discovery-based inquiry of a large dataset using R
-
-    teaching_experience:
-      - company: Portland Community College
-        position: Adjunct Biology Instructor
-        date:
-        start_date: 2017-04
-        end_date: present
-        location: Portland, OR
-        summary:
-        highlights:
-          - "Biology 200B — Principles of Ecology: Field Biology in Costa Rica (Lecture and Laboratory) [Summer 2022]"
-          - "Environmental Studies 171 — Environmental Science: Biological Perspective in Costa Rica (Lecture and Laboratory) [Summer 2022]. Rescheduled from summer 2020 due to COVID-19; achieved full enrollment before cancellation"
-          - "Biology 213 — Principles of Biology (Lecture and Laboratory) [Spring 2019] | [Syllabus](https://github.com/Atticus29/pcc_biology_213/blob/master/README.md)"
-          - "Biology 212 — Principles of Biology (Lecture and Laboratory) [Winter 2018; Spring 2020 Online] | [Syllabus](https://github.com/Atticus29/pcc_biology_212/blob/winter2019/syllabus.md). Designed, delivered, and assessed weekly experimental prompts including a [COVID-19 phylogenetics exercise](https://docs.google.com/document/d/1jjpxktjhblmnvHcLkQPzIOmPjuN-h3hi6PNW_5ghixE/edit?usp=sharing)"
-          - "Biology 211 — Principles of Biology (Lecture and Laboratory) [Fall 2018; Winter 2020] | [Syllabus](https://github.com/Atticus29/pcc_biology_211/blob/master/README.md)"
-          - "Biology 112 — Cell Biology for Health Occupations (Lecture and Laboratory) [Summer 2018; Fall 2019] | [Syllabus](https://github.com/Atticus29/pcc_biology_112/blob/master/README.md)"
-          - "Biology 101 — Biology (Lecture and Laboratory) [Spring 2017; Fall 2017; Winter 2018; Spring 2018] | [Syllabus](https://github.com/Atticus29/pcc_biology_101/blob/master/README.md)"
-
-      - company: Clark College
-        position: Adjunct Biology Instructor
-        date:
-        start_date: 2017-09
-        end_date: present
-        location: Vancouver, WA
-        summary:
-        highlights:
-          - "Biology 101 — Environmental Biology (Lecture and Laboratory) [Fall 2017 – Spring 2020] | [Syllabus](https://github.com/Atticus29/clark_bio_101/blob/master/Essential_course_documents/README.md). Designed experimental protocols including a [population fragmentation simulation lab](https://docs.google.com/document/d/1L7zTHOjGEFYhk9RqHBIfXmPGjMSM5U16rQsVDp3zmmw/edit?usp=sharing) from scratch"
-          - Involved students in local environmental community service including Clark College's native plant nursery, a restoration site in the St. Cloud Day area, and Steigerwald Lake National Wildlife Refuge
-          - "Biology 160 — General Biology (Lecture and Laboratory) [Summer 2018] | [Syllabus](https://github.com/Atticus29/clark_bio_160/blob/master/README.md). Designed a [data visualization and interpretation lab](https://docs.google.com/document/d/1Ao3R8yJffz6u2-ChJdpwj-CLrhfA493P2jL01m9vL6E/edit?usp=sharing) from scratch"
-
-      - company: Washington State University Vancouver
-        position: Adjunct Biology Instructor
-        date:
-        start_date: 2014-01
-        end_date: 2016-01
-        location: Vancouver, WA
-        summary:
-        highlights:
-          - "Biology 301 — Genetics [Fall 2014 (63 students); Fall 2015 (57 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5cWdtQlpTWDlLZVU/view). Team-taught; coordinated course design with a co-instructor and managed a teaching assistant"
-          - "Biology 438[M] — Animal Behavior, Writing Intensive [Fall 2014 (29 students); Fall 2015 (19 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5NG1XUE8zNlNFeEk/view). Selected weekly original research articles for discussion; provided multiple rounds of written and oral feedback on student research projects"
-          - "Biology 438L — Animal Behavior Laboratory [Fall 2014–2015] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5NG1XUE8zNlNFeEk/view). Independently designed weekly inquiry-based experimental protocols; led students through independent research projects with emphasis on science communication and frequent written feedback"
-          - "Entomology 103 — Discover Insects: Laboratory for Non-Science Majors [Maymester 2015 (7 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5eTN2anUzbUIzWnM/view). Designed course entirely from scratch"
-          - "Biology 403 — Evolutionary Biology [Spring/Summer 2014; Spring/Summer 2015 (up to 71 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5ZXh6UW1BV0dhSlk/view). Generated all lectures, TopHat activities, and assessments from scratch; coordinated with a teaching assistant"
-          - "Biology 499 — Special Problems in Biology (Independent Research) [Fall 2014; Spring–Fall 2015 (2–3 students each)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqH4WkFTaWRXd1phdEE/view). Mentored undergraduates on projects including CRISPR-Cas9 gene knockout in honey bees, a Washington State Beekeepers Association grant proposal, fish behavior tracking using EthoVision XT, and literature reviews on HIV/PrEP dynamics and invasive lionfish management"
-
     projects:
-      - name: DraggleSimulator
+      - name: Flat-bug integration into Antenna
         date:
-        start_date: 2019-01
-        end_date: 2019-07
+        start_date: 2024-10
+        end_date: present
         location:
-        summary: Open-source simulation webapp that allows students to simulate and explore difficult population genetics concepts.
+        summary: Volunteer contributor to [Antenna](https://github.com/RolnickLab/antenna), an open source platform for processing and reviewing images from automated insect monitoring stations.
         highlights:
-          - Published in a peer reviewed open-source software journal called JOSE (The Journal of Open Source Education) in November 2019
-          - Designed to address lack of affordable tools available that use best teaching practices
-          - Teaches students about genetic drift
-          - "[TypeScript: Angular] DraggleSimulator Project on Github"
-          - Current live deployment uses several AWS services
-          - Showcases cleanliness of code
-          - Showcases use of AWS services such as DynamoDB, Route53, S3, and CloudFront
-          - Showcases ability to document a project, including README, tutorial video, specs.md, and bugs.md
+          - Familiarized myself with ML and data processing pipelines [example Jupyter notebook](https://github.com/Atticus29/cr_moth/blob/main/1_dataset_prep/dataset_prep.ipynb)
+          - (Onging) integrating the open-source [Flat-bug](https://github.com/darsa-group/flat-bug) detection model into Antenna's data processing pipeline, including writing code to convert the model's output into a format compatible with Antenna's database and user interface
 
-      - name: AnnotateVid.Io
+      - name: "AnnotateVid.Io ([live site](https://annotatevid.io))"
         date:
         start_date: 2017-11
         end_date: present
         location:
-        summary: Platform that allows users to crowd-annotate videos. Ongoing passion project.
+        summary: Platform that allows users to crowd-annotate behavior videos. Ongoing passion project. Video introduction [here](https://youtu.be/6aVEwXTbRF0?si=NqklZx8f8j4nERPc).
         highlights:
-          - "[TypeScript: Angular] AnnotateVid.Io Project on Github"
-          - Current live deployment uses several AWS services
-          - Features extensive integration testing using Cypress
-          - Features CI using CircleCI
+          - "[TypeScript: Angular] [AnnotateVid.Io Project on Github](https://github.com/atticus29/datajitsu). Angular version is now deprecated"
+          - "[Next.js: React] Current project is a private repository on Github"
 
     publications:
       - title: "Flukebook: an open-source AI platform for cetacean photo identification"
@@ -233,11 +180,55 @@ cv:
       - reversed_number: "March 2012 — The University of Georgia Graduate Student Association 2012 Interdisciplinary Conference, Athens, GA — Poster: Fisher, M.A., D. Promislow. Applying WIP [Writing Intensive Program] principles to oral presentations."
       - reversed_number: "September 2010 — Southeastern Population Ecology and Evolutionary Genetics (SEPEEG), Madison, FL — Presentation: Fisher, M.A., K. Ross. Heterozygosity-fitness associations in the invasive fire ant, Solenopsis invicta: early hints of cryptic inbreeding?"
 
+    teaching_experience:
+      - company: Portland Community College
+        position: Adjunct Biology Instructor
+        date:
+        start_date: 2017-04
+        end_date: present
+        location: Portland, OR
+        summary:
+        highlights:
+          - "Biology 200B — Principles of Ecology: Field Biology in Costa Rica (Lecture and Laboratory) [Summer 2022, 2024, 2026]"
+          - "Environmental Studies 171 — Environmental Science: Biological Perspective in Costa Rica (Lecture and Laboratory) [Summer 2022, 2024, 2026]"
+          - "Biology 213 — Principles of Biology (Lecture and Laboratory) [Spring 2019] | [Syllabus](https://github.com/Atticus29/pcc_biology_213/blob/master/README.md)"
+          - "Biology 212 — Principles of Biology (Lecture and Laboratory) [Winter 2018; Spring 2020 Online] | [Syllabus](https://github.com/Atticus29/pcc_biology_212/blob/winter2019/syllabus.md). Designed, delivered, and assessed weekly experimental prompts including a [COVID-19 phylogenetics exercise](https://docs.google.com/document/d/1jjpxktjhblmnvHcLkQPzIOmPjuN-h3hi6PNW_5ghixE/edit?usp=sharing)"
+          - "Biology 211 — Principles of Biology (Lecture and Laboratory) [Fall 2018; Winter 2020] | [Syllabus](https://github.com/Atticus29/pcc_biology_211/blob/master/README.md)"
+          - "Biology 112 — Cell Biology for Health Occupations (Lecture and Laboratory) [Summer 2018; Fall 2019] | [Syllabus](https://github.com/Atticus29/pcc_biology_112/blob/master/README.md)"
+          - "Biology 101 — Biology (Lecture and Laboratory) [Spring 2017; Fall 2017; Winter 2018; Spring 2018] | [Syllabus](https://github.com/Atticus29/pcc_biology_101/blob/master/README.md)"
+
+      - company: Clark College
+        position: Adjunct Biology Instructor
+        date:
+        start_date: 2017-09
+        end_date: 2020-06
+        location: Vancouver, WA
+        summary:
+        highlights:
+          - "Biology 101 — Environmental Biology (Lecture and Laboratory) [Fall 2017 – Spring 2020] | [Syllabus](https://github.com/Atticus29/clark_bio_101/blob/master/Essential_course_documents/README.md). Designed experimental protocols including a [population fragmentation simulation lab](https://docs.google.com/document/d/1L7zTHOjGEFYhk9RqHBIfXmPGjMSM5U16rQsVDp3zmmw/edit?usp=sharing) from scratch"
+          - Involved students in local environmental community service including Clark College's native plant nursery, a restoration site in the St. Cloud Day area, and Steigerwald Lake National Wildlife Refuge
+          - "Biology 160 — General Biology (Lecture and Laboratory) [Summer 2018] | [Syllabus](https://github.com/Atticus29/clark_bio_160/blob/master/README.md). Designed a [data visualization and interpretation lab](https://docs.google.com/document/d/1Ao3R8yJffz6u2-ChJdpwj-CLrhfA493P2jL01m9vL6E/edit?usp=sharing) from scratch"
+
+      - company: Washington State University Vancouver
+        position: Adjunct Biology Instructor
+        date:
+        start_date: 2014-01
+        end_date: 2016-01
+        location: Vancouver, WA
+        summary:
+        highlights:
+          - "Biology 301 — Genetics [Fall 2014 (63 students); Fall 2015 (57 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5cWdtQlpTWDlLZVU/view). Team-taught; coordinated course design with a co-instructor and managed a teaching assistant"
+          - "Biology 438[M] — Animal Behavior, Writing Intensive [Fall 2014 (29 students); Fall 2015 (19 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5NG1XUE8zNlNFeEk/view). Selected weekly original research articles for discussion; provided multiple rounds of written and oral feedback on student research projects"
+          - "Biology 438L — Animal Behavior Laboratory [Fall 2014–2015] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5NG1XUE8zNlNFeEk/view). Independently designed weekly inquiry-based experimental protocols; led students through independent research projects with emphasis on science communication and frequent written feedback"
+          - "Entomology 103 — Discover Insects: Laboratory for Non-Science Majors [Maymester 2015 (7 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5eTN2anUzbUIzWnM/view). Designed course entirely from scratch"
+          - "Biology 403 — Evolutionary Biology [Spring/Summer 2014; Spring/Summer 2015 (up to 71 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5ZXh6UW1BV0dhSlk/view). Generated all lectures, TopHat activities, and assessments from scratch; coordinated with a teaching assistant"
+          - "Biology 499 — Special Problems in Biology (Independent Research) [Fall 2014; Spring–Fall 2015 (2–3 students each)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqH4WkFTaWRXd1phdEE/view). Mentored undergraduates on projects including CRISPR-Cas9 gene knockout in honey bees, a Washington State Beekeepers Association grant proposal, fish behavior tracking using EthoVision XT, and literature reviews on HIV/PrEP dynamics and invasive lionfish management"
+
     skills:
       - label: Languages
-        details: TypeScript (Angular2+), R (Knitr, BioConductor), Java, Android Development (Java), JavaScript (Ember.js, jQuery), Bash/Shell scripting, Python
-      - label: Tools
-        details: End-to-end testing (Cypress), CI/CD (CircleCI), No-SQL databases (Firebase, including geoFire, authentication, and cloud functions), SQL (PostgreSQL), Job scheduler (HTCondor), Test-driven and Behavior-driven Development, GUI Design (Java-NetBeans), AWS
+        details: TypeScript, R (Knitr, BioConductor), Java, Android Development (in Java), JavaScript (Ember.js, jQuery, Angular 2+, React, Alpine, HTMX), Bash/Shell scripting, Python, PHP, PHP frameworks (Laravel)
+      - label: Software Engineering Tools
+        details: End-to-end testing (Cypress, Playwright), CI/CD (CircleCI, Github webhooks), No-SQL databases (Firebase, MongoDB), SQL (PostgreSQL, MariaDB), Job scheduler (HTCondor), Test-driven and Behavior-driven Development, GUI Design (Java-NetBeans), Basic familiarity with AWS ,Azure, and Jetstream
       - label: Teaching Certifications
         details: University of Georgia Interdisciplinary Certificate in University Teaching (2012)
       - label: Teaching Tools
@@ -245,10 +236,7 @@ cv:
 
     other_interests:
       - bullet: Black belt in Brazilian Jiu-Jitsu (20 years and counting)
-      - bullet: Beekeeper
-      - bullet: Carnivorous plant enthusiast
-      - bullet: Homesteading
-      - bullet: Aquarium owner (freshwater and saltwater)
+      - bullet: Homesteading (gardening, canning, orcharding, beekeeping, chicken keeping, etc.)
       - bullet: Member of the Portland Timberfish (LGBT Masters Swimming Program)
 
 design:
