@@ -1,21 +1,17 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Mark Fisher
-  headline: Software Engineer, Biologist, and Educator with a Ph.D. in Population Genetics aiming to contribute code to meaningful causes.
+  headline: Software Engineer, Biologist, and Educator with a Ph.D. in Population Genetics contributing code to meaningful causes.
   location: Portland, OR
-  email: mark.aaron.fisher@gmail.com
+  email:
+    - mark.fisher@ku.edu
+    - mark.aaron.fisher@gmail.com
   photo:
   phone: +1-609-577-9078
   website:
   social_networks:
     - network: GitHub
       username: Atticus29
-    - network: LinkedIn
-      username: mark-a-fisher
-  custom_connections:
-    - fontawesome_icon: location-dot
-      placeholder: 9421 N. Portsmouth Ave. Portland, OR
-      url:
   sections:
     education:
       - institution: University of Georgia
@@ -39,40 +35,39 @@ cv:
 
     "Relevant Experience":
       - company: "[Symbiota](https://symbiota.org/)"
+        summary: "Open-Source Biodiversity Data Management Software through the **University of Kansas**"
         position: Full-time Software Engineer/Development Team Manager (since 2026-02)
         date: 
         start_date: 2023-02
         end_date: present
         location: Portland, OR
-        summary:
         highlights:
           - "[PHP] Authored [313 Pull requests](https://github.com/Symbiota/Symbiota/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29)"
-          - "[Laravel] Authored [5 Pull Requests](https://github.com/Symbiota/Symbiota-Laravel/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in the Laravel-based Symbiota-Laravel repository, which is represents Symbiota's very recent effort to modernize the code base"
+          - "[Laravel] Authored [5 Pull Requests](https://github.com/Symbiota/Symbiota-Laravel/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in the Laravel-based Symbiota-Laravel repository, which represents Symbiota's very recent effort to modernize the code base"
           - "[Laravel] Authored or co-authored [22 Pull Requests](https://github.com/Symbiota/SymbiotaServices/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in the Laravel-based SymbiotaServices repository, which respresents an internal product to assist with invoice generation and tracking (see below)"
           - Mentored 3 student developers on various projects, including code review and pair programming, most recently collaborating on and managing one student's creation of an internal product, [Symbiota Services](https://github.com/Symbiota/SymbiotaServices)
-          - Created the [versioned and translated documentation for Symbiota](https://github.com/Symbiota/Symbiota-Documentation)
 
       - company: "[WildMe](https://www.wildme.org/)"
+        summary: "Leverages computer vision to speed population analysis and develop new insights to help fight extinction"
         position: Full-time Software Engineer
         date:
         start_date: 2020-06
         end_date: 2023-10
         location: Portland, OR
-        summary:
         highlights:
-          - "[JSP and Java] Authored [122 Pull Requests](https://github.com/WildMeOrg/Wildbook/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in WildMe's flagship product, [Wildbook](https://github.com/WildMeOrg/Wildbook), instances of which provide computer vision services to wildlife researchers on projects including sea turtles, leafy seadragons, humpback whales, whale sharks, and many more species"
+          - "[JSP and Java] Authored [122 Pull Requests](https://github.com/WildMeOrg/Wildbook/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in WildMe's flagship product, [Wildbook](https://github.com/WildMeOrg/Wildbook), instances of which provide **computer vision services to wildlife** researchers on projects including sea turtles, leafy seadragons, humpback whales, whale sharks, and many more species"
           - "[React and TypeScript] Authored [119 Pull Requests](https://github.com/WildMeOrg/codex-frontend/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) significantly to the front-end code base for Wildbook's (now-archived) spinoff product, [Codex](https://github.com/WildMeOrg/codex-frontend)"
 
       - company: "[Discover Life](https://www.discoverlife.org/)"
+        summary: "Tools to identify species, build maps, process images, and report findings"
         position: Research Associate
         date:
         start_date: 2013-08
         end_date: 2014-01
         location: Monteverde, Costa Rica
-        summary:
         highlights:
-          - Studied questions related to species delimitation and phenological variation of moth species across North and Central America
-          - This involved nightly photograph sampling and identification of local moth diversity and collection of 40 target species of interest, as well as discovery-based inquiry of a large dataset using R
+          - Studied questions related to species delimitation and phenological variation of **moth species** across North and Central America
+          - This involved **nightly photograph sampling and identification** of local moth diversity and collection of 40 target species of interest, as well as discovery-based inquiry of a large dataset using R
     "Relevant Projects":
       - name: Flat-bug integration into Antenna
         date:
@@ -124,15 +119,12 @@ cv:
         journal: University of Georgia
         date: 2013
 
-    conference_presentations:
+    relevant_conference_presentations:
       - reversed_number: "November 2025 — Entomological Society of America, Portland, OR — Presentation: Fisher, M., Walker, L., Gilbert, E., Orellana, S., Pearson, K., Post, G., Salikov, N., Wilt, L., Yost, J., & Franz, N. Leveraging new Symbiota features to extend specimen data in existing biocollections."
       - reversed_number: "May 2025 — Society for the Preservation of Natural History Collections Demo Camp, Lawrence, KS, Hybrid — Demo: Fisher, M., Pearson, K., Post, G., Salikov, N., Wilt, L., & Gilbert, E. Symbiota 3.2: more tools for managing and sharing extended specimen data."
       - reversed_number: "February 2018 — Ocean Sciences Meeting, Portland, OR — Presentation: Fisher, M.A., Holmberg, J., Wainner, C., Van Oast, J., Berger-Wolf, T., Stewart, C., Wildbook: Finding High Quality Mark-Recapture Data for Whales and Sharks on Twitter and YouTube Using Multiple Forms of Machine Learning."
-      - reversed_number: "June 2013 — Evolution, Snowbird, UT — Presentation: Fisher, M.A., Ross, K., Shoemaker, D. Fitness costs of SINV-1 and SINV-2 viral infections on incipient queens and colonies of the invasive fire ant, Solenopsis invicta."
-      - reversed_number: "March 2012 — The University of Georgia Graduate Student Association 2012 Interdisciplinary Conference, Athens, GA — Poster: Fisher, M.A., D. Promislow. Applying WIP [Writing Intensive Program] principles to oral presentations."
-      - reversed_number: "September 2010 — Southeastern Population Ecology and Evolutionary Genetics (SEPEEG), Madison, FL — Presentation: Fisher, M.A., K. Ross. Heterozygosity-fitness associations in the invasive fire ant, Solenopsis invicta: early hints of cryptic inbreeding?"
 
-    relevant_teaching_experience:
+    entomology_related_teaching_experience:
       - company: Portland Community College
         position: Adjunct Biology Instructor
         date:
@@ -145,14 +137,6 @@ cv:
           - "Environmental Studies 171 — Environmental Science: **Biological Perspectives in Costa Rica** (Lecture and Laboratory) [Summer 2022, 2024, 2026]"
           - "Biology 213, 212, 211, 112, and 101 — Various [Spring 2017 to Spring 2020]"
           
-      - company: Clark College
-        position: Adjunct Biology Instructor
-        date:
-        start_date: 2017-09
-        end_date: 2020-06
-        location: Vancouver, WA
-        summary:
-
       - company: Washington State University Vancouver
         position: Adjunct Biology Instructor
         date:
@@ -160,6 +144,8 @@ cv:
         end_date: 2016-01
         location: Vancouver, WA
         summary:
+        highlights:
+          - "Entomology 103 — Discover Insects: Laboratory for Non-Science Majors [Maymester 2015 (7 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5eTN2anUzbUIzWnM/view). Designed course entirely from scratch"
 
     other_interests:
       - bullet: Black belt in Brazilian Jiu-Jitsu (20 years and counting)
