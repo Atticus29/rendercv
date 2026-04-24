@@ -40,14 +40,14 @@ cv:
     experience:
       - company: "[Symbiota](https://symbiota.org/)"
         position: Full-time Software Engineer/Development Team Manager (since 2026-02)
-        date: 
+        summary: "Open-Source Biodiversity Data Management Software through the *University of Kansas*"
+        date:
         start_date: 2023-02
         end_date: present
         location: Portland, OR
-        summary:
         highlights:
           - "[PHP] Authored [313 Pull requests](https://github.com/Symbiota/Symbiota/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29)"
-          - "[Laravel] Authored [5 Pull Requests](https://github.com/Symbiota/Symbiota-Laravel/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in the Laravel-based Symbiota-Laravel repository, which is represents Symbiota's very recent effort to modernize the code base"
+          - "[Laravel] Authored [5 Pull Requests](https://github.com/Symbiota/Symbiota-Laravel/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in the Laravel-based Symbiota-Laravel repository, which represents Symbiota's very recent effort to modernize the code base"
           - "[Laravel] Authored or co-authored [22 Pull Requests](https://github.com/Symbiota/SymbiotaServices/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in the Laravel-based SymbiotaServices repository, which respresents an internal product to assist with invoice generation and tracking (see below)"
           - Mentored 3 student developers on various projects, including code review and pair programming, most recently collaborating on and managing one student's creation of an internal product, [Symbiota Services](https://github.com/Symbiota/SymbiotaServices)
           - Created the [versioned and translated documentation for Symbiota](https://github.com/Symbiota/Symbiota-Documentation)
@@ -55,11 +55,11 @@ cv:
 
       - company: "[WildMe](https://www.wildme.org/)"
         position: Full-time Software Engineer
+        summary: "Leverages computer vision to speed population analysis and develop new insights to help fight extinction"
         date:
         start_date: 2020-06
         end_date: 2023-10
         location: Portland, OR
-        summary:
         highlights:
           - "[JSP and Java] Authored [122 Pull Requests](https://github.com/WildMeOrg/Wildbook/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in WildMe's flagship product, [Wildbook](https://github.com/WildMeOrg/Wildbook), instances of which provide computer vision services to wildlife researchers on projects including sea turtles, leafy seadragons, humpback whales, whale sharks, and many more species"
           - "[React and TypeScript] Authored [119 Pull Requests](https://github.com/WildMeOrg/codex-frontend/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) significantly to the front-end code base for Wildbook's (now-archived) spinoff product, [Codex](https://github.com/WildMeOrg/codex-frontend)"
@@ -103,11 +103,11 @@ cv:
 
       - company: "[Discover Life](https://www.discoverlife.org/)"
         position: Research Associate
+        summary: Tools to identify species, build maps, process images, and report findings
         date:
         start_date: 2013-08
         end_date: 2014-01
         location: Monteverde, Costa Rica
-        summary:
         highlights:
           - Studied questions related to species delimitation and phenological variation of moth species across North and Central America
           - This involved nightly photograph sampling and identification of local moth diversity and collection of 40 target species of interest, as well as discovery-based inquiry of a large dataset using R
