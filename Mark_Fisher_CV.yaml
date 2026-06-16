@@ -157,6 +157,28 @@ cv:
           - "Biology 499 — Special Problems in Biology (Independent Research) [Fall 2014; Spring–Fall 2015 (2–3 students each)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqH4WkFTaWRXd1phdEE/view). Mentored undergraduates on projects including CRISPR-Cas9 gene knockout in honey bees, a Washington State Beekeepers Association grant proposal, fish behavior tracking using EthoVision XT, and literature reviews on HIV/PrEP dynamics and invasive lionfish management"
 
     projects:
+      - name: Flat-bug integration into Antenna
+        date:
+        start_date: 2024-10
+        end_date: present
+        location:
+        summary: Volunteer contributor to [Antenna](https://github.com/RolnickLab/antenna), an open source platform for processing and reviewing images from automated insect monitoring stations.
+        highlights:
+          - Familiarized myself with ML and data processing pipelines [example Jupyter notebook](https://github.com/Atticus29/cr_moth/blob/main/1_dataset_prep/dataset_prep.ipynb)
+          - (Onging) integrating the open-source [Flat-bug](https://github.com/darsa-group/flat-bug) detection model into Antenna's data processing pipeline, including writing code to convert the model's output into a format compatible with Antenna's database and user interface
+
+      - name: AnnotateVid.Io
+        date:
+        start_date: 2017-11
+        end_date: present
+        location:
+        summary: Platform that allows users to crowd-annotate videos. Ongoing passion project.
+        highlights:
+          - "[TypeScript: Angular] AnnotateVid.Io Project on Github"
+          - Current live deployment uses several AWS services
+          - Features extensive integration testing using Cypress
+          - Features CI using CircleCI
+
       - name: DraggleSimulator
         date:
         start_date: 2019-01
@@ -172,18 +194,6 @@ cv:
           - Showcases cleanliness of code
           - Showcases use of AWS services such as DynamoDB, Route53, S3, and CloudFront
           - Showcases ability to document a project, including README, tutorial video, specs.md, and bugs.md
-
-      - name: AnnotateVid.Io
-        date:
-        start_date: 2017-11
-        end_date: present
-        location:
-        summary: Platform that allows users to crowd-annotate videos. Ongoing passion project.
-        highlights:
-          - "[TypeScript: Angular] AnnotateVid.Io Project on Github"
-          - Current live deployment uses several AWS services
-          - Features extensive integration testing using Cypress
-          - Features CI using CircleCI
 
     publications:
       - title: "Flukebook: an open-source AI platform for cetacean photo identification"
@@ -237,7 +247,7 @@ cv:
       - label: Languages
         details: TypeScript (Angular2+), R (Knitr, BioConductor), Java, Android Development (Java), JavaScript (Ember.js, jQuery), Bash/Shell scripting, Python
       - label: Tools
-        details: End-to-end testing (Cypress), CI/CD (CircleCI), No-SQL databases (Firebase, including geoFire, authentication, and cloud functions), SQL (PostgreSQL), Job scheduler (HTCondor), Test-driven and Behavior-driven Development, GUI Design (Java-NetBeans), AWS
+        details: End-to-end testing (Cypress, Playwright), CI/CD (CircleCI, GitHub workflows), No-SQL databases (Firebase, including geoFire, authentication, and cloud functions), SQL (PostgreSQL, MariaDB), Job scheduler (HTCondor, Slurm), Cloud platforms (AWS, Azure, Jetstream)
       - label: Teaching Certifications
         details: University of Georgia Interdisciplinary Certificate in University Teaching (2012)
       - label: Teaching Tools
