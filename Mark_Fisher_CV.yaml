@@ -114,7 +114,7 @@ cv:
           - Studied questions related to species delimitation and phenological variation of moth species across North and Central America
           - This involved nightly photograph sampling and identification of local moth diversity and collection of 40 target species of interest, as well as discovery-based inquiry of a large dataset using R
 
-    teaching_experience:
+    relevant_teaching_experience:
       - company: Portland Community College
         position: Adjunct Biology Instructor
         date:
@@ -125,11 +125,6 @@ cv:
         highlights:
           - "Biology 200B — Principles of Ecology: Field Biology in Costa Rica (Lecture and Laboratory) [Summer 2022, Summer 2024, Summer 2026 (upcoming)]"
           - "Environmental Studies 171 — Environmental Science: Biological Perspective in Costa Rica (Lecture and Laboratory) [Summer 2022, Summer 2024, Summer 2026 (upcoming)]."
-          - "Biology 213 — Principles of Biology (Lecture and Laboratory) [Spring 2019] | [Syllabus](https://github.com/Atticus29/pcc_biology_213/blob/master/README.md)"
-          - "Biology 212 — Principles of Biology (Lecture and Laboratory) [Winter 2018; Spring 2020 Online] | [Syllabus](https://github.com/Atticus29/pcc_biology_212/blob/winter2019/syllabus.md). Designed, delivered, and assessed weekly experimental prompts including a [COVID-19 phylogenetics exercise](https://docs.google.com/document/d/1jjpxktjhblmnvHcLkQPzIOmPjuN-h3hi6PNW_5ghixE/edit?usp=sharing)"
-          - "Biology 211 — Principles of Biology (Lecture and Laboratory) [Fall 2018; Winter 2020] | [Syllabus](https://github.com/Atticus29/pcc_biology_211/blob/master/README.md)"
-          - "Biology 112 — Cell Biology for Health Occupations (Lecture and Laboratory) [Summer 2018; Fall 2019] | [Syllabus](https://github.com/Atticus29/pcc_biology_112/blob/master/README.md)"
-          - "Biology 101 — Biology (Lecture and Laboratory) [Spring 2017; Fall 2017; Winter 2018; Spring 2018] | [Syllabus](https://github.com/Atticus29/pcc_biology_101/blob/master/README.md)"
 
       - company: Clark College
         position: Adjunct Biology Instructor
@@ -139,9 +134,9 @@ cv:
         location: Vancouver, WA
         summary:
         highlights:
-          - "Biology 101 — Environmental Biology (Lecture and Laboratory) [Fall 2017 – Spring 2020] | [Syllabus](https://github.com/Atticus29/clark_bio_101/blob/master/Essential_course_documents/README.md). Designed experimental protocols including a [population fragmentation simulation lab](https://docs.google.com/document/d/1L7zTHOjGEFYhk9RqHBIfXmPGjMSM5U16rQsVDp3zmmw/edit?usp=sharing) from scratch"
+          - "Biology 101 — Environmental Biology (Lecture and Laboratory) [Fall 2017 – Spring 2020] | [Syllabus](https://github.com/Atticus29/clark_bio_101/blob/master/Essential_course_documents/README.md)"
           - Involved students in local environmental community service including Clark College's native plant nursery, a restoration site in the St. Cloud Day area, and Steigerwald Lake National Wildlife Refuge
-          - "Biology 160 — General Biology (Lecture and Laboratory) [Summer 2018] | [Syllabus](https://github.com/Atticus29/clark_bio_160/blob/master/README.md). Designed a [data visualization and interpretation lab](https://docs.google.com/document/d/1Ao3R8yJffz6u2-ChJdpwj-CLrhfA493P2jL01m9vL6E/edit?usp=sharing) from scratch"
+          - "Biology 160 — General Biology (Lecture and Laboratory) [Summer 2018] | [Syllabus](https://github.com/Atticus29/clark_bio_160/blob/master/README.md)"
 
       - company: Washington State University Vancouver
         position: Adjunct Biology Instructor
@@ -151,12 +146,12 @@ cv:
         location: Vancouver, WA
         summary:
         highlights:
-          - "Biology 301 — Genetics [Fall 2014 (63 students); Fall 2015 (57 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5cWdtQlpTWDlLZVU/view). Team-taught; coordinated course design with a co-instructor and managed a teaching assistant"
-          - "Biology 438[M] — Animal Behavior, Writing Intensive [Fall 2014 (29 students); Fall 2015 (19 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5NG1XUE8zNlNFeEk/view). Selected weekly original research articles for discussion; provided multiple rounds of written and oral feedback on student research projects"
-          - "Biology 438L — Animal Behavior Laboratory [Fall 2014–2015] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5NG1XUE8zNlNFeEk/view). Independently designed weekly inquiry-based experimental protocols; led students through independent research projects with emphasis on science communication and frequent written feedback"
-          - "Entomology 103 — Discover Insects: Laboratory for Non-Science Majors [Maymester 2015 (7 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5eTN2anUzbUIzWnM/view). Designed course entirely from scratch"
-          - "Biology 403 — Evolutionary Biology [Spring/Summer 2014; Spring/Summer 2015 (up to 71 students)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqh5ZXh6UW1BV0dhSlk/view). Generated all lectures, TopHat activities, and assessments from scratch; coordinated with a teaching assistant"
-          - "Biology 499 — Special Problems in Biology (Independent Research) [Fall 2014; Spring–Fall 2015 (2–3 students each)] | [Syllabus](https://drive.google.com/file/d/0B4mMlpjcKqH4WkFTaWRXd1phdEE/view). Mentored undergraduates on projects including CRISPR-Cas9 gene knockout in honey bees, a Washington State Beekeepers Association grant proposal, fish behavior tracking using EthoVision XT, and literature reviews on HIV/PrEP dynamics and invasive lionfish management"
+          - "Biology 301 — Genetics [Fall 2014 (63 students); Fall 2015 (57 students)]"
+          - "Biology 438[M] — Animal Behavior, Writing Intensive [Fall 2014 (29 students); Fall 2015 (19 students)]"
+          - "Biology 438L — Animal Behavior Laboratory [Fall 2014–2015]; Led students through independent research projects with emphasis on science communication and frequent written feedback"
+          - "Entomology 103 — Discover Insects: Laboratory for Non-Science Majors [Maymester 2015 (7 students)]"
+          - "Biology 403 — Evolutionary Biology [Spring/Summer 2014; Spring/Summer 2015 (up to 71 students)]"
+          - "Biology 499 — Special Problems in Biology (Independent Research) [Fall 2014; Spring–Fall 2015 (2–3 students each)] | Mentored undergraduates on projects including CRISPR-Cas9 gene knockout in honey bees, a Washington State Beekeepers Association grant proposal, fish behavior tracking using EthoVision XT, and literature reviews on HIV/PrEP dynamics and invasive lionfish management"
 
     projects:
       - name: Antenna — Flat-bug insect detector integration
@@ -193,10 +188,7 @@ cv:
           - Designed to address lack of affordable tools available that use best teaching practices
           - Teaches students about genetic drift
           - "[TypeScript: Angular] DraggleSimulator [Project on Github](https://github.com/Atticus29/draggle-simulator)"
-          - Current live deployment uses several AWS services
-          - Showcases cleanliness of code
-          - Showcases use of AWS services such as DynamoDB, Route53, S3, and CloudFront
-          - Showcases ability to document a project
+          - Current live deployment uses several AWS services (DynamoDB, Route53, S3, and CloudFront)
 
     publications:
       - title: "Flukebook: an open-source AI platform for cetacean photo identification"
@@ -255,11 +247,14 @@ cv:
         details: Experience/exposure to cloud platforms (AWS, Azure, Jetstream), No-SQL databases (Firebase, MongoDB), Job schedulers (HTCondor, Slurm)
       - label: Data & Scientific Computing
         details: R (KnitR, BioConductor), Bash/Shell scripting, Jupyter notebooks, Machine learning pipeline experience/exposure via volunteer work with Antenna, Large-scale data processing and validation
+      - label: Public Speaking, Communication, and Mentorship
+        details: Experienced in delivering presentations at conferences, engaging with large classrooms of students, mentoring students, and effectively communicating complex scientific concepts to diverse audiences
 
     other_interests:
       - bullet: Black belt in Brazilian Jiu-Jitsu (21 years and counting)
       - bullet: Homesteading (gardening, canning, orcharding, beekeeping, chicken keeping, etc.)
       - bullet: Member of the Portland Timberfish (LGBT Masters Swimming Program)
+      - bullet: Languages (English [native], Spanish [conversational], German [intermediate], Italian [beginner])
 
 design:
   theme: classic
