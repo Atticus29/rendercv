@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Mark Fisher
-  headline: Software Developer with experience in large-scale data processing, open-source infrastructure, and ML integration. Ph.D. in genetics with a proven track record bridging software engineering and scientific research.
+  headline: Software Engineer, Biologist, and Educator with a Ph.D. in Population Genetics aiming to contribute code to meaningful causes.
   location: Portland, OR
   email: mark.aaron.fisher@gmail.com
   photo:
@@ -44,14 +44,14 @@ cv:
         start_date: 2023-02
         end_date: present
         location: Portland, OR
-        summary: Helped implement backend and infrastructure development for a large-scale open-source platform serving museum collections, biodiversity institutions, and researchers. Helped architect systems for managing complex scientific workflows and extensive relational datasets.
+        summary: "Open-Source Biodiversity Data Management Software through the *University of Kansas*"
         highlights:
-          - Authored [313 Pull requests](https://github.com/Symbiota/Symbiota/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29), including PRs that improved backend architecture, database schema design, API development, and DevOps infrastructure
+          - "[PHP] Authored [331 Pull Requests](https://github.com/Symbiota/Symbiota/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29), including PRs that improved UI/UX, database schema design, API development, DevOps infrastructure, and created new features requested by the end user community"
+          - "[Laravel] Authored [10 Pull Requests](https://github.com/Symbiota/Symbiota-Laravel/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in the Laravel-based Symbiota-Laravel repository, which represents Symbiota's very recent effort to modernize the code base"
+          - "[Laravel] Authored or co-authored [22 Pull Requests](https://github.com/Symbiota/SymbiotaServices/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in the Laravel-based SymbiotaServices repository, which respresents an internal product to assist with invoice generation and tracking (see below)"
           - Mentored 3 student developers on various projects, including code review and pair programming, most recently collaborating on and managing one student's creation of an internal service, [Symbiota Services](https://github.com/Symbiota/SymbiotaServices)
-          - Maintained and improved backend systems handling specimen data, taxonomy management, and inter-system communication for multiple institutional deployments (via API)
-          - Co-implemented CI workflows, database migration strategies, and infrastructure documentation for collaborative team development
-          - Established 508 compliance for Symbiota's user interface
-          - Joined the management team in February, 2026 as a Software Engineer, and contributed to strategic planning and decision-making processes
+          - Established 508 compliance for Symbiota's user interface, among many other sub-projects
+          - Joined the management team in February, 2026 still in the capacity of a Software Engineer, and contributed to strategic planning, decision-making processes, and bug/feature prioritization
 
       - company: WildMe
         position: Full-time Software Engineer
@@ -61,10 +61,8 @@ cv:
         location: Portland, OR
         summary: Full-stack development on the Wildbook platform, integrating computer vision models with web services to enable AI-powered wildlife research across multiple species and institutional deployments.
         highlights:
-          - Backend contributor to WildMe's flagship product, Wildbook, which integrates machine learning models with a web platform serving computer vision services to wildlife researchers on projects including sea turtles, leafy seadragons, giant sea bass, humpback whales, manta rays, whale sharks, sevengill sharks, and more
-          - "[Java and JSP backend] Feature development: Co-led creation of a feature allowing researchers to group wildlife image Encounters into subsets and match individuals only from within that subset, requiring complex database queries and backend logic"
-          - "[Python backend migration] Led the effort to de-duplicate users from existing databases as the team migrates from a Java-based architecture to a Python-based framework (Flask), handling data consistency and migration validation at scale"
-          - "[React and TypeScript] Front-end development: Contributed significantly to the front-end code base for Wildbook's (now-archived) spinoff product, [Codex](https://github.com/WildMeOrg/codex-frontend), providing researchers with intuitive interfaces to ML inference results"
+          - "[JSP and Java] Authored [122 Pull Requests](https://github.com/WildMeOrg/Wildbook/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29) in WildMe's flagship product, [Wildbook](https://github.com/WildMeOrg/Wildbook), instances of which provide computer vision services to wildlife researchers on projects including sea turtles, leafy seadragons, humpback whales, whale sharks, and many more species"
+          - "[React and TypeScript] Authored [119 Pull Requests](https://github.com/WildMeOrg/codex-frontend/pulls?q=is%3Apr+is%3Aclosed+author%3AAtticus29), significantly contributing to the front-end code base for Wildbook's (now-archived) spinoff product, [Codex](https://github.com/WildMeOrg/codex-frontend)"
 
       - company: WildMe
         position: Contract Software Developer
@@ -112,9 +110,9 @@ cv:
         summary:
         highlights:
           - Studied questions related to species delimitation and phenological variation of moth species across North and Central America
-          - This involved nightly photograph sampling and identification of local moth diversity and collection of 40 target species of interest, as well as discovery-based inquiry of a large dataset using R
+          - Conducted nightly photograph sampling and identification of local moth diversity and collection of 40 target species of interest, as well as discovery-based inquiry of a large dataset using R
 
-    relevant_teaching_experience:
+    teaching_experience:
       - company: Portland Community College
         position: Adjunct Biology Instructor
         date:
@@ -125,17 +123,22 @@ cv:
         highlights:
           - "Biology 200B — Principles of Ecology: Field Biology in Costa Rica (Lecture and Laboratory) [Summer 2022, Summer 2024, Summer 2026 (upcoming)]"
           - "Environmental Studies 171 — Environmental Science: Biological Perspective in Costa Rica (Lecture and Laboratory) [Summer 2022, Summer 2024, Summer 2026 (upcoming)]."
+          - "Biology 213 — Principles of Biology (Lecture and Laboratory) [Spring 2019] | [Syllabus](https://github.com/Atticus29/pcc_biology_213/blob/master/README.md)"
+          - "Biology 212 — Principles of Biology (Lecture and Laboratory) [Winter 2018; Spring 2020 Online] | [Syllabus](https://github.com/Atticus29/pcc_biology_212/blob/winter2019/syllabus.md)."
+          - "Biology 211 — Principles of Biology (Lecture and Laboratory) [Fall 2018; Winter 2020] | [Syllabus](https://github.com/Atticus29/pcc_biology_211/blob/master/README.md)"
+          - "Biology 112 — Cell Biology for Health Occupations (Lecture and Laboratory) [Summer 2018; Fall 2019] | [Syllabus](https://github.com/Atticus29/pcc_biology_112/blob/master/README.md)"
+          - "Biology 101 — Biology (Lecture and Laboratory) [Spring 2017; Fall 2017; Winter 2018; Spring 2018] | [Syllabus](https://github.com/Atticus29/pcc_biology_101/blob/master/README.md)"
 
       - company: Clark College
         position: Adjunct Biology Instructor
         date:
         start_date: 2017-09
-        end_date: present
+        end_date: 2020-06
         location: Vancouver, WA
         summary:
         highlights:
-          - "Biology 101 — Environmental Biology (Lecture and Laboratory) [Fall 2017 – Spring 2020] | [Syllabus](https://github.com/Atticus29/clark_bio_101/blob/master/Essential_course_documents/README.md)"
-          - Involved students in local environmental community service including Clark College's native plant nursery, a restoration site in the St. Cloud Day area, and Steigerwald Lake National Wildlife Refuge
+          - "Biology 101 — Environmental Biology (Lecture and Laboratory) [Fall 2017 - Spring 2020] | [Syllabus](https://github.com/Atticus29/clark_bio_101/blob/master/Essential_course_documents/README.md)"
+          - Involved students in local environmental community service including Clark College's native plant nursery, a restoration site in the St. Cloud Day area and Steigerwald Lake National Wildlife Refuge
           - "Biology 160 — General Biology (Lecture and Laboratory) [Summer 2018] | [Syllabus](https://github.com/Atticus29/clark_bio_160/blob/master/README.md)"
 
       - company: Washington State University Vancouver
@@ -154,7 +157,7 @@ cv:
           - "Biology 499 — Special Problems in Biology (Independent Research) [Fall 2014; Spring–Fall 2015 (2–3 students each)] | Mentored undergraduates on projects including CRISPR-Cas9 gene knockout in honey bees, a Washington State Beekeepers Association grant proposal, fish behavior tracking using EthoVision XT, and literature reviews on HIV/PrEP dynamics and invasive lionfish management"
 
     projects:
-      - name: Antenna — Flat-bug insect detector integration
+      - name: "Antenna — Flat-bug insect detector integration [Python: Django]"
         date:
         start_date: 2024-10
         end_date: present
@@ -162,22 +165,22 @@ cv:
         summary: Active volunteer contributor to [Antenna](https://github.com/RolnickLab/antenna), the open-source data management and analysis platform for InsectAI's automated insect monitoring system. Focused on backend data pipeline architecture and ML model integration.
         highlights:
           - (Ongoing) Designing and implementing integration of the open-source [Flat-bug](https://github.com/darsa-group/flat-bug)'s detection model into Antenna's data processing pipeline
-          - (Ongoing) Developing data transformation layer to convert ML model output into Antenna's database schema, ensuring compatibility with both backend storage and frontend visualization
           - (Ongoing) Working directly with the Antenna team to understand system requirements, characterize scientific use cases, and providing my own use case in the field in Costa Rica
           - Familiarized myself with large-scale data processing pipelines and preprocessing workflows by creating my own detector trained on photographic data at a study site I still regularly visit and capture from. [Example Jupyter notebook](https://github.com/Atticus29/cr_moth/blob/main/1_dataset_prep/dataset_prep.ipynb)
           - Gained hands-on experience with ML inference workflows, image data processing at scale, and the challenges of integrating computer vision models into production systems
 
-      - name: AnnotateVid.Io
+      - name: "AnnotateVid.Io [TypeScript: Next.js/React]"
         date:
         start_date: 2017-11
         end_date: present
         location:
         summary: Platform that allows users to crowd-annotate videos. Ongoing passion project. [Live deployment](https://annotatevid.io) | [Introductory Video](https://youtu.be/6aVEwXTbRF0?si=FNR8AgrH4vLeA7Hz)
         highlights:
-          - "[TypeScript: Next.js/React] AnnotateVid.Io"
+          - Presented at Digital Data conference and slated to present at Animal Behavior conference in July
+          - Actively used by a rattlesnake research group at California Polytechnic State University and by Portland Community College students
           - "[Older/deprecated Angular version](https://github.com/Atticus29/dataJitsu) used several AWS services (including S3 and CloudFront), featured extensive integration testing using Cypress, and utilized CircleCI for CI/CD"
 
-      - name: DraggleSimulator
+      - name: "[DraggleSimulator](https://github.com/Atticus29/population-fragmentation) [TypeScript: Angular]"
         date:
         start_date: 2019-01
         end_date: 2019-07
@@ -187,7 +190,6 @@ cv:
           - Published in a peer reviewed open-source software journal called JOSE (The Journal of Open Source Education) in November 2019
           - Designed to address lack of affordable tools available that use best teaching practices
           - Teaches students about genetic drift
-          - "[TypeScript: Angular] DraggleSimulator [Project on Github](https://github.com/Atticus29/draggle-simulator)"
           - Current live deployment uses several AWS services (DynamoDB, Route53, S3, and CloudFront)
 
     publications:
@@ -233,6 +235,7 @@ cv:
     conference_presentations:
       - reversed_number: "November 2025 — Entomological Society of America, Portland, OR — Presentation: Fisher, M., Walker, L., Gilbert, E., Orellana, S., Pearson, K., Post, G., Salikov, N., Wilt, L., Yost, J., & Franz, N. Leveraging new Symbiota features to extend specimen data in existing biocollections."
       - reversed_number: "May 2025 — Society for the Preservation of Natural History Collections Demo Camp, Lawrence, KS, Hybrid — Demo: Fisher, M., Pearson, K., Post, G., Salikov, N., Wilt, L., & Gilbert, E. Symbiota 3.2: more tools for managing and sharing extended specimen data."
+      - reversed_number: "May 2024 — Digital Data Conference, Lawrence, KS, - Presentation: Fisher, M. AnnotateVid.Io: A platform for crowd-annotation of behavioral videos."
       - reversed_number: "February 2018 — Ocean Sciences Meeting, Portland, OR — Presentation: Fisher, M.A., Holmberg, J., Wainner, C., Van Oast, J., Berger-Wolf, T., Stewart, C., Wildbook: Finding High Quality Mark-Recapture Data for Whales and Sharks on Twitter and YouTube Using Multiple Forms of Machine Learning."
       - reversed_number: "June 2013 — Evolution, Snowbird, UT — Presentation: Fisher, M.A., Ross, K., Shoemaker, D. Fitness costs of SINV-1 and SINV-2 viral infections on incipient queens and colonies of the invasive fire ant, Solenopsis invicta."
       - reversed_number: "March 2012 — The University of Georgia Graduate Student Association 2012 Interdisciplinary Conference, Athens, GA — Poster: Fisher, M.A., D. Promislow. Applying WIP [Writing Intensive Program] principles to oral presentations."
@@ -240,11 +243,11 @@ cv:
 
     skills:
       - label: Backend & Infrastructure
-        details: Python (backend development, data processing), SQL (PostgreSQL, MariaDB), CI/CD pipeline design and implementation (CircleCI, GitHub workflows), API design and optimization, Database architecture and migration strategies
+        details: Python (backend development, data processing), SQL (PostgreSQL, MariaDB), No-SQL databases (Firebase, MongoDB), API design, Database architecture and migration strategies
       - label: Frontend & Full-Stack
-        details: Exposure to Python (Django, Flask) via Antenna and Codex project work, PHP (Laravel), TypeScript (Next.js/React, Angular2+), JavaScript (Ember.js, jQuery), Java (JSP), End-to-end testing (Cypress, Playwright)
+        details: TypeScript (Next.js/React, Angular2+), Exposure to Python (Django, Flask) via Antenna and Codex project work, PHP (Laravel), JavaScript (Ember.js, jQuery), Java (JSP)
       - label: DevOps & Cloud
-        details: Experience/exposure to cloud platforms (AWS, Azure, Jetstream), No-SQL databases (Firebase, MongoDB), Job schedulers (HTCondor, Slurm)
+        details: Exposure to cloud platforms (AWS, Azure, Jetstream), Job schedulers (HTCondor, Slurm), CI/CD pipeline design and implementation (CircleCI, GitHub workflows), End-to-end testing (Cypress, Playwright)
       - label: Data & Scientific Computing
         details: R (KnitR, BioConductor), Bash/Shell scripting, Jupyter notebooks, Machine learning pipeline experience/exposure via volunteer work with Antenna, Large-scale data processing and validation
       - label: Public Speaking, Communication, and Mentorship
