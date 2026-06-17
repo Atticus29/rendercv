@@ -1,0 +1,24 @@
+June 16, 2026
+
+Dear Francis Pelletier and Maude Gohier-Murray,
+
+I am writing to apply for the Fullstack Developer (Backend & DevOps) position at Mila. The opportunity to contribute to InsectAI is especially compelling to me because it sits at the intersection of software engineering, scientific research, and biodiversity, which has defined much of my career. I am currently volunteering on Antenna, where I have been contributing to the integration of the Flat-bug detection model into the platform's data processing workflow. That experience has already made it clear to me how meaningful this work is and how much I would value the chance to support it in a larger, more sustained role.
+
+Over the past several years, I have worked as a software engineer on open-source platforms that serve researchers, scientific collections, and conservation-focused projects. At Symbiota, I have contributed extensively to a large-scale biodiversity informatics platform used by institutions managing complex specimen and taxonomy data. My work there has included backend development, database-oriented problem solving, infrastructure and workflow improvements, documentation, and more recently day-to-day technical leadership. Before that, at WildMe, I worked on software that connected web platforms with computer vision workflows for wildlife research, helping deliver tools that supported identification and analysis across large image datasets. I am comfortable with and have a strong preference working within collaborative open-source environments such as Symbiota, WildMe, and InsectAI/Antenna.
+
+What draws me most to this role is the combination of technical depth and mission alignment. I am motivated by creating tools that allow biologist to do science: designing reliable data flows, improving maintainability, handling edge cases in real-world research software, and building interfaces that help researchers do their work effectively. The Mila posting describes exactly the kind of engineering environment I want to be in - one that leverages machine learning operations in support of scientists and field researchers. My current Antenna volunteer work has given me direct exposure to those challenges, including transforming model outputs into forms that are usable by both the database and the interface layer.
+
+I would also bring a perspective shaped by my scientific training. I hold a Ph.D. in Genetics and previously worked as a computational biologist, experiences that made me comfortable collaborating across disciplines, reasoning carefully about data, breaking large problems down into smaller components, and understanding the practical needs of research teams. I have found that this background complements software engineering especially well in scientific and conservation settings, where technical decisions often need to be informed by domain expertise.
+
+Furthermore, I will also be an end user of Antenna. I teach a month-long study abroad course in Costa Rica every two years through Portland Community College, and we conduct a longitudinal moth photography project there. I have thirteen-year-old photography data from one of the same collection sites near Monteverde, where I worked on a moth community ecology project in 2013. Using Antenna to process future and already-existing moth photographs stands to help my students and I ask and answer interesting questions about the insect diversity in that part of the world. Having a user of the software on staff may also prove beneficial for helping the development team focus on problems that matter to the end users.
+
+While my experience spans multiple stacks and tools, the throughline in my work has been a willingness to take ownership of complex systems, learn quickly, and contribute wherever the application most needs support. I believe that that combination of adaptability, mission fit, and existing familiarity with Antenna and its goals would allow me to contribute meaningfully to Mila's team, even if I have never held a DevOps position before and face a potentially steep learning curve at the onset.
+
+Thank you for your time and consideration. I would welcome the opportunity to discuss how my experience and current work on Antenna could support the continued development of InsectAI.
+
+Sincerely,
+
+Mark Fisher
+mark.aaron.fisher@gmail.com
++1-609-577-9078
+Portland, OR
