@@ -17,7 +17,7 @@ cv:
       url:
   sections:
     summary:
-      - "I am a biologist, educator, software developer, and queer athlete and athletics advocate who combines outdoor field teaching, inclusive group facilitation, and practical program coordination. I have spent over a cumulative year teaching and conducting research in Costa Rica and have led three study abroad biology programs there, guiding participants through wildlife-focused field experiences while supporting safety, adaptability, and group wellbeing. Alongside this work, I am a long-term queer community athletics instructor (BJJ black belt, 21 years) with over a decade of teaching experience in queer spaces. Professionally, I currently support open-source biodiversity infrastructure through Symbiota at the University of Kansas, where I contribute software development, mentorship, and cross-team collaboration."
+      - "I am a biologist, educator, software developer, queer athlete, and queer athletics advocate. I have spent over a cumulative year teaching and conducting research in Costa Rica and have led three study abroad biology programs there, guiding participants through wildlife-focused field experiences while supporting safety, adaptability, and group wellbeing. Alongside this work, I am a long-term queer community athletics instructor (BJJ black belt, 21 years) with over a decade of teaching experience in queer spaces. Professionally, I have supported several open-source biodiversity infrastructure projects, most recently through Symbiota at the University of Kansas, where I contributed software development, mentorship, and cross-team collaboration."
     education:
       - institution: University of Georgia
         area: Genetics
@@ -38,7 +38,55 @@ cv:
         summary:
         highlights:
 
-    experience:
+    outdoor_educator:
+      - company: Portland Community College
+        position: Biology Instructor and Study Abroad Program Leader
+        date:
+        start_date: 2022-01
+        end_date: present
+        location: Costa Rica and Portland, OR
+        summary: "Facilitated nature-based group experiences with an emphasis on inclusion, emotional safety, and participant-centered learning. Spent over a cumulative year in Costa Rica and led three study abroad programs there for U.S. college students, the overwhelming majority of whom were queer or gender-queer."
+        highlights:
+          - Led biodiversity-focused field hikes and outdoor instruction in Costa Rica for mixed-experience groups of students
+          - Regularly adapted group activities to participant comfort levels, physical abilities, weather, and field conditions
+          - Coordinated with local partners and instructors to maintain safety and provide culturally and environmentally responsible field experiences
+
+    queer_community_leadership:
+      - company: Portland Queer Athletics + Brazilian Jiu-Jitsu Communities
+        position: Instructor, Organizer
+        date:
+        start_date: 2015-01
+        end_date: present
+        location: Portland, OR and Costa Rica
+        summary: "Black belt in Brazilian Jiu-Jitsu (21 years), queer community instructor, and long-term organizer of inclusive athletics spaces."
+        highlights:
+          - Teach BJJ regularly at a local gym (since 2014)
+          - Volunteer teach monthly queer BJJ classes
+          - Founded the now-defunct Roll Out community and co-founded Triangles Everywhere, both of which were or are queer grappling communities with international reach
+          - Co-organized a queer BJJ camp in Portland, OR (2023) and an informal camp in Costa Rica (2023) with Triangles Everywhere
+
+    costa_rica_farm_and_field_experience:
+      - company: Organic Farm Work
+        position: Volunteer
+        date:
+        start_date: 2013-07
+        end_date: 2014-01
+        location: Monteverde, Puntarenas, Costa Rica
+        summary: "Worked on an organic farm in Costa Rica (Monteverde). Using those skills, I established a productive homestead in Portland, OR. I am interested in contributing to a project garden or small-farm efforts where aligned with host goals and available space."
+        highlights:
+
+      - company: "[Discover Life](https://www.discoverlife.org/)"
+        position: Research Associate
+        date:
+        start_date: 2013-07
+        end_date: 2014-01
+        location: Monteverde, Puntarenas, Costa Rica
+        summary:
+        highlights:
+          - Studied questions related to species delimitation and phenological variation of moth species across North and Central America
+          - "[R] Conducted nightly photograph sampling and identification of local moth diversity and collection of 40 target species of interest, as well as discovery-based inquiry of a large dataset"
+
+    software_experience:
       - company: "[Symbiota](https://symbiota.org/)"
         position: Software Engineer
         date: 
@@ -83,17 +131,6 @@ cv:
         location: Portland, OR
         summary: "Delivered client-facing analyses and reproducible code (KnitR) for the Bioinformatics Core and Integrated Genomics Laboratory, organized shared [R repositories](https://github.com/ohsu-comp-bio/R-utils), improved laboratory workflow and data handling, and created [Java/NetBeans] IGLToolkit for APS report preparation from Affymetrix Expression Console outputs."
         highlights:
-
-      - company: "[Discover Life](https://www.discoverlife.org/)"
-        position: Research Associate
-        date:
-        start_date: 2013-08
-        end_date: 2014-01
-        location: Monteverde, Puntarenas, Costa Rica
-        summary:
-        highlights:
-          - Studied questions related to species delimitation and phenological variation of moth species across North and Central America
-          - "[R] Conducted nightly photograph sampling and identification of local moth diversity and collection of 40 target species of interest, as well as discovery-based inquiry of a large dataset"
 
     projects:
       - name: "[Antenna](https://www.insectai.org/) — Flat-bug insect detector integration [Python (Django)]"
@@ -213,43 +250,6 @@ cv:
           - "Biology 403 — Evolutionary Biology [Spring/Summer 2014; Spring/Summer 2015 (up to 71 students)]"
           - "Biology 499 — Special Problems in Biology (Independent Research) [Fall 2014; Spring–Fall 2015 (2–3 students each)] | Mentored undergraduates on projects including CRISPR-Cas9 gene knockout in honey bees, a Washington State Beekeepers Association grant proposal, fish behavior tracking using EthoVision XT, and literature reviews on HIV/PrEP dynamics and invasive lionfish management"
 
-    outdoor_and_retreat_facilitation:
-      - company: Independent + Community Programs
-        position: Outdoor Educator and Retreat-Style Facilitator
-        date:
-        start_date: 2013-01
-        end_date: present
-        location: Costa Rica and Portland, OR
-        summary: "Facilitates nature-based group experiences with an emphasis on inclusion, emotional safety, and participant-centered learning. Has spent well over one cumulative year in Costa Rica and led three study abroad programs there for U.S. college students."
-        highlights:
-          - Led biodiversity-focused field hikes and outdoor instruction in Costa Rica for mixed-experience groups of students
-          - Regularly adapts group activities to participant comfort levels, physical abilities, weather, and field conditions
-          - Coordinates with local partners and instructors to maintain safe logistics, clear expectations, and supportive group flow
-
-    queer_community_leadership:
-      - company: Portland Queer Athletics + Brazilian Jiu-Jitsu Communities
-        position: Instructor, Organizer, and Community Builder
-        date:
-        start_date: 2005-01
-        end_date: present
-        location: Portland, OR and Costa Rica
-        summary: "Black belt in Brazilian Jiu-Jitsu (21 years), active queer community instructor, and long-term organizer of inclusive athletics spaces."
-        highlights:
-          - Teaches BJJ regularly at a local gym and has taught for over a decade
-          - Volunteers monthly queer BJJ classes with a consent-forward, inclusive approach
-          - Founded the now-defunct Roll Out queer grappling community and co-founded Triangles Everywhere
-          - Co-organized queer BJJ camps multiple times per year, including an informal camp in Costa Rica (2023)
-
-    costa_rica_farm_and_field_experience:
-      - company: Organic Farm Work + Field Research
-        position: Farm and Field Educator
-        date:
-        start_date: 2013-01
-        end_date: present
-        location: Costa Rica
-        summary: "Worked previously on an organic farm in Costa Rica and maintained long-term engagement with local field ecology sites, combining wildlife education with practical land-based stewardship. Interested in contributing to project garden or small-farm efforts where aligned with host goals and available space."
-        highlights:
-
     skills:
       - label: Public Speaking, Communication, and Mentorship
         details: Experienced in **delivering presentations at conferences**, engaging with large classrooms of students, **mentoring students**, and effectively communicating complex scientific concepts to diverse audiences
@@ -259,8 +259,8 @@ cv:
     other_interests:
       - bullet: Black belt in Brazilian Jiu-Jitsu (21 years and counting)
       - bullet: Homesteading (gardening, canning, orcharding, beekeeping, chicken keeping, etc.)
-      - bullet: Member of the Portland Timberfish (LGBT Masters Swimming Program)
-      - bullet: Co-fournder of Roll Out, an international queer grappling community and predecessor to Triangles Everywhere
+      - bullet: Member, former board member, and frequent volunteer coach of the Portland Timberfish (LGBT Masters Swimming Program)
+      - bullet: Co-founder of Roll Out, an international queer grappling community and predecessor to Triangles Everywhere
       - bullet: Co-founder of Triangles Everywhere, an international queer Brazilian Jiu-Jitsu community
       - bullet: Languages (English [native], Spanish [conversational], German [intermediate], Italian [beginner])
 
