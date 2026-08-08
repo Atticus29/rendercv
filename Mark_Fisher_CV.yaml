@@ -17,7 +17,7 @@ cv:
       url:
   sections:
     summary:
-      - "I am a biologist, educator, software developer, queer athlete, and queer athletics advocate. I have spent over a cumulative year teaching and conducting research in Costa Rica and have led three study abroad biology programs there, guiding participants through wildlife-focused field experiences while supporting safety, adaptability, and group wellbeing. Alongside this work, I am a long-term queer community athletics instructor (BJJ black belt, 21 years) with over a decade of teaching experience in queer spaces. Professionally, I have supported several open-source biodiversity infrastructure projects, most recently through Symbiota at the University of Kansas, where I contributed software development, mentorship, and cross-team collaboration."
+      - "I am a biologist, educator, software developer, queer athlete, and queer athletics advocate. I have spent over a cumulative year teaching and conducting research in Costa Rica and have led three study abroad biology programs there, guiding participants through wildlife-focused field experiences while emphasizing safety and adapting to group dynamics and individual needs. Alongside this work, I am a long-term queer community athletics instructor (swimming and Brazilian jiu jitsu) with over a decade of teaching experience in queer spaces. I have worked especially in the BJJ community to make queer-identifying people more visible and more comfortable joining a traditionally hyper-masculine space. Professionally, I have supported several open-source biodiversity infrastructure projects, most recently through Symbiota at the University of Kansas. My software experience often blends with my teaching and biology, and I have worked on several projects that make biology more accessible to the public and to scientists alike."
     education:
       - institution: University of Georgia
         area: Genetics
@@ -38,7 +38,7 @@ cv:
         summary:
         highlights:
 
-    outdoor_educator:
+    outdoor_education:
       - company: Portland Community College
         position: Biology Instructor and Study Abroad Program Leader
         date:
@@ -48,21 +48,32 @@ cv:
         summary: "Facilitated nature-based group experiences with an emphasis on inclusion, emotional safety, and participant-centered learning. Spent over a cumulative year in Costa Rica and led three study abroad programs there for U.S. college students, the overwhelming majority of whom were queer or gender-queer."
         highlights:
           - Led biodiversity-focused field hikes and outdoor instruction in Costa Rica for mixed-experience groups of students
-          - Regularly adapted group activities to participant comfort levels, physical abilities, weather, and field conditions
-          - Coordinated with local partners and instructors to maintain safety and provide culturally and environmentally responsible field experiences
+          - Regularly adapted group activities to participant comfort levels, physical abilities, and field conditions
+          - Coordinated with local partners and instructors to provide culturally and environmentally responsible field experiences
 
     queer_community_leadership:
-      - company: Portland Queer Athletics + Brazilian Jiu-Jitsu Communities
+      - company: Portland Timberfish
+        position: Board Member, Volunteer Coach
+        date:
+        start_date: 2020-08
+        end_date: present
+        location: Portland, OR
+        summary: "Former Division I swimmer. Regularly design and deliver practices for Portland's queer Masters swimming program. On the board, I served as the social chair and organized social events for two years."
+        highlights:
+          - Team size of the Timberfish grew substantially during my tenure on the board, and I helped organize social events to foster community and retention
+
+      - company: Brazilian Jiu-Jitsu
         position: Instructor, Organizer
         date:
-        start_date: 2015-01
+        start_date: 2005-07
         end_date: present
         location: Portland, OR and Costa Rica
-        summary: "Black belt in Brazilian Jiu-Jitsu (21 years), queer community instructor, and long-term organizer of inclusive athletics spaces."
+        summary: "Black belt in Brazilian Jiu-Jitsu (21 years of training), queer community instructor, and long-term organizer of inclusive athletics spaces."
         highlights:
           - Teach BJJ regularly at a local gym (since 2014)
           - Volunteer teach monthly queer BJJ classes
           - Founded the now-defunct Roll Out community and co-founded Triangles Everywhere, both of which were or are queer grappling communities with international reach
+          - Featured on a [popular podcast episode](https://goodpods.com/podcasts/bjjbrick-podcast-bjj-no-gi-and-good-times-45081/epi-112-roll-out-jiu-jitsu-with-mark-fisher-2190393) about being queer in BJJ (2015)
           - Co-organized a queer BJJ camp in Portland, OR (2023) and an informal camp in Costa Rica (2023) with Triangles Everywhere
 
     costa_rica_farm_and_field_experience:
@@ -84,7 +95,57 @@ cv:
         summary:
         highlights:
           - Studied questions related to species delimitation and phenological variation of moth species across North and Central America
-          - "[R] Conducted nightly photograph sampling and identification of local moth diversity and collection of 40 target species of interest, as well as discovery-based inquiry of a large dataset"
+          - "Conducted nightly photograph sampling and identification of local moth diversity and collection of 40 target species of interest, as well as discovery-based inquiry of a large dataset"
+
+    teaching_experience:
+      - company: Portland Community College
+        position: Adjunct Biology Instructor
+        date:
+        start_date: 2017-04
+        end_date: present
+        location: Portland, OR
+        summary:
+        highlights:
+          - "Biology 200B — Principles of Ecology: Field Biology in Costa Rica (Lecture and Laboratory) [Summer 2022, Summer 2024, Summer 2026 (upcoming)]"
+          - "Environmental Studies 171 — Environmental Science: Biological Perspective in Costa Rica (Lecture and Laboratory) [Summer 2022, Summer 2024, Summer 2026 (upcoming)]."
+          - "Biology 213 — Principles of Biology (Lecture and Laboratory) [Spring 2019] | [Syllabus](https://github.com/Atticus29/pcc_biology_213/blob/master/README.md)"
+          - "Biology 212 — Principles of Biology (Lecture and Laboratory) [Winter 2018; Spring 2020 Online] | [Syllabus](https://github.com/Atticus29/pcc_biology_212/blob/winter2019/syllabus.md)."
+          - "Biology 211 — Principles of Biology (Lecture and Laboratory) [Fall 2018; Winter 2020] | [Syllabus](https://github.com/Atticus29/pcc_biology_211/blob/master/README.md)"
+          - "Biology 112 — Cell Biology for Health Occupations (Lecture and Laboratory) [Summer 2018; Fall 2019] | [Syllabus](https://github.com/Atticus29/pcc_biology_112/blob/master/README.md)"
+          - "Biology 101 — Biology (Lecture and Laboratory) [Spring 2017; Fall 2017; Winter 2018; Spring 2018] | [Syllabus](https://github.com/Atticus29/pcc_biology_101/blob/master/README.md)"
+
+      - company: Clark College
+        position: Adjunct Biology Instructor
+        date:
+        start_date: 2017-09
+        end_date: 2020-06
+        location: Vancouver, WA
+        summary:
+        highlights:
+          - "Biology 101 — Environmental Biology (Lecture and Laboratory) [Fall 2017 to Spring 2020] | [Syllabus](https://github.com/Atticus29/clark_bio_101/blob/master/Essential_course_documents/README.md)"
+          - Involved students in local environmental community service including Clark College's native plant nursery, a restoration site in the St. Cloud Day area and Steigerwald Lake National Wildlife Refuge
+          - "Biology 160 — General Biology (Lecture and Laboratory) [Summer 2018] | [Syllabus](https://github.com/Atticus29/clark_bio_160/blob/master/README.md)"
+
+      - company: Washington State University Vancouver
+        position: Adjunct Biology Instructor
+        date:
+        start_date: 2014-01
+        end_date: 2016-01
+        location: Vancouver, WA
+        summary:
+        highlights:
+          - "Biology 301 — Genetics [Fall 2014 (63 students); Fall 2015 (57 students)]"
+          - "Biology 438[M] — Animal Behavior, Writing Intensive [Fall 2014 (29 students); Fall 2015 (19 students)]"
+          - "Biology 438L — Animal Behavior Laboratory [Fall 2014–2015]; Led students through independent research projects with emphasis on science communication and frequent written feedback"
+          - "Entomology 103 — Discover Insects: Laboratory for Non-Science Majors [Maymester 2015 (7 students)]"
+          - "Biology 403 — Evolutionary Biology [Spring/Summer 2014; Spring/Summer 2015 (up to 71 students)]"
+          - "Biology 499 — Special Problems in Biology (Independent Research) [Fall 2014; Spring–Fall 2015 (2–3 students each)] | Mentored undergraduates on projects including CRISPR-Cas9 gene knockout in honey bees, a Washington State Beekeepers Association grant proposal, fish behavior tracking using EthoVision XT, and literature reviews on HIV/PrEP dynamics and invasive lionfish management"
+
+    skills:
+      - label: Public Speaking, Communication, and Mentorship
+        details: Experienced in delivering presentations at conferences, engaging with large classrooms of students, mentoring students, and effectively communicating complex scientific concepts to diverse audiences
+      - label: Languages and Cross-Cultural Communication
+        details: "**English (native)**, **Spanish (conversational B2/C1)**, German (intermediate), Italian (beginner); experienced teaching and collaborating across U.S. and Costa Rican contexts"
 
     software_experience:
       - company: "[Symbiota](https://symbiota.org/)"
@@ -130,31 +191,6 @@ cv:
         end_date: 2017-01
         location: Portland, OR
         summary: "Delivered client-facing analyses and reproducible code (KnitR) for the Bioinformatics Core and Integrated Genomics Laboratory, organized shared [R repositories](https://github.com/ohsu-comp-bio/R-utils), improved laboratory workflow and data handling, and created [Java/NetBeans] IGLToolkit for APS report preparation from Affymetrix Expression Console outputs."
-        highlights:
-
-    projects:
-      - name: "[Antenna](https://www.insectai.org/) — Flat-bug insect detector integration [Python (Django)]"
-        date:
-        start_date: 2024-10
-        end_date: present
-        location:
-        summary: "Active volunteer contributor to [Antenna](https://github.com/RolnickLab/antenna), the open-source data management and analysis platform for InsectAI's automated insect monitoring system. Focused on backend data pipeline architecture and ML model integration, including ongoing integration of the open-source [Flat-bug](https://github.com/darsa-group/flat-bug) detector, collaboration with the Antenna team on scientific and field use cases in Costa Rica, and pipeline prototyping from my own field datasets ([example notebook](https://github.com/Atticus29/cr_moth/blob/main/1_dataset_prep/dataset_prep.ipynb))."
-        highlights:
-
-      - name: "[AnnotateVid.Io](https://annotatevid.io/) [TypeScript (Next.js/React)]"
-        date:
-        start_date: 2017-11
-        end_date: present
-        location:
-        summary: "Platform that allows users to crowd-annotate videos. Ongoing passion project. [Live deployment](https://annotatevid.io) | [Introductory Video](https://youtu.be/6aVEwXTbRF0?si=FNR8AgrH4vLeA7Hz). Presented at Digital Data conference and selected for Animal Behavior conference presentation; currently used by a rattlesnake research group at California Polytechnic State University and by Portland Community College students. The older Angular version used AWS services (including S3 and CloudFront), extensive Cypress integration tests, and CircleCI CI/CD."
-        highlights:
-
-      - name: "[DraggleSimulator](https://github.com/Atticus29/population-fragmentation) [**TypeScript (Angular 2+)**]"
-        date:
-        start_date: 2019-01
-        end_date: 2019-07
-        location:
-        summary: "Open-source simulation webapp that allows students to simulate and explore difficult population genetics concepts, especially genetic drift. Published in a peer-reviewed open-source software journal (JOSE) in November 2019 and designed to increase access to affordable, pedagogy-centered teaching tools. Current live deployment uses AWS services including DynamoDB, Route53, S3, and CloudFront."
         highlights:
 
     publications:
@@ -205,64 +241,10 @@ cv:
       - reversed_number: "June 2013 — Evolution, Snowbird, UT — Presentation: Fisher, M.A., Ross, K., Shoemaker, D. Fitness costs of SINV-1 and SINV-2 viral infections on incipient queens and colonies of the invasive fire ant, Solenopsis invicta."
       - reversed_number: "March 2012 — The University of Georgia Graduate Student Association 2012 Interdisciplinary Conference, Athens, GA — Poster: Fisher, M.A., D. Promislow. Applying WIP [Writing Intensive Program] principles to oral presentations."
       - reversed_number: "September 2010 — Southeastern Population Ecology and Evolutionary Genetics (SEPEEG), Madison, FL — Presentation: Fisher, M.A., K. Ross. Heterozygosity-fitness associations in the invasive fire ant, Solenopsis invicta: early hints of cryptic inbreeding?"
-
-    teaching_experience:
-      - company: Portland Community College
-        position: Adjunct Biology Instructor
-        date:
-        start_date: 2017-04
-        end_date: present
-        location: Portland, OR
-        summary:
-        highlights:
-          - "Biology 200B — Principles of Ecology: Field Biology in Costa Rica (Lecture and Laboratory) [Summer 2022, Summer 2024, Summer 2026 (upcoming)]"
-          - "Environmental Studies 171 — Environmental Science: Biological Perspective in Costa Rica (Lecture and Laboratory) [Summer 2022, Summer 2024, Summer 2026 (upcoming)]."
-          - "Biology 213 — Principles of Biology (Lecture and Laboratory) [Spring 2019] | [Syllabus](https://github.com/Atticus29/pcc_biology_213/blob/master/README.md)"
-          - "Biology 212 — Principles of Biology (Lecture and Laboratory) [Winter 2018; Spring 2020 Online] | [Syllabus](https://github.com/Atticus29/pcc_biology_212/blob/winter2019/syllabus.md)."
-          - "Biology 211 — Principles of Biology (Lecture and Laboratory) [Fall 2018; Winter 2020] | [Syllabus](https://github.com/Atticus29/pcc_biology_211/blob/master/README.md)"
-          - "Biology 112 — Cell Biology for Health Occupations (Lecture and Laboratory) [Summer 2018; Fall 2019] | [Syllabus](https://github.com/Atticus29/pcc_biology_112/blob/master/README.md)"
-          - "Biology 101 — Biology (Lecture and Laboratory) [Spring 2017; Fall 2017; Winter 2018; Spring 2018] | [Syllabus](https://github.com/Atticus29/pcc_biology_101/blob/master/README.md)"
-
-      - company: Clark College
-        position: Adjunct Biology Instructor
-        date:
-        start_date: 2017-09
-        end_date: 2020-06
-        location: Vancouver, WA
-        summary:
-        highlights:
-          - "Biology 101 — Environmental Biology (Lecture and Laboratory) [Fall 2017 - Spring 2020] | [Syllabus](https://github.com/Atticus29/clark_bio_101/blob/master/Essential_course_documents/README.md)"
-          - Involved students in local environmental community service including Clark College's native plant nursery, a restoration site in the St. Cloud Day area and Steigerwald Lake National Wildlife Refuge
-          - "Biology 160 — General Biology (Lecture and Laboratory) [Summer 2018] | [Syllabus](https://github.com/Atticus29/clark_bio_160/blob/master/README.md)"
-
-      - company: Washington State University Vancouver
-        position: Adjunct Biology Instructor
-        date:
-        start_date: 2014-01
-        end_date: 2016-01
-        location: Vancouver, WA
-        summary:
-        highlights:
-          - "Biology 301 — Genetics [Fall 2014 (63 students); Fall 2015 (57 students)]"
-          - "Biology 438[M] — Animal Behavior, Writing Intensive [Fall 2014 (29 students); Fall 2015 (19 students)]"
-          - "Biology 438L — Animal Behavior Laboratory [Fall 2014–2015]; Led students through independent research projects with emphasis on science communication and frequent written feedback"
-          - "Entomology 103 — Discover Insects: Laboratory for Non-Science Majors [Maymester 2015 (7 students)]"
-          - "Biology 403 — Evolutionary Biology [Spring/Summer 2014; Spring/Summer 2015 (up to 71 students)]"
-          - "Biology 499 — Special Problems in Biology (Independent Research) [Fall 2014; Spring–Fall 2015 (2–3 students each)] | Mentored undergraduates on projects including CRISPR-Cas9 gene knockout in honey bees, a Washington State Beekeepers Association grant proposal, fish behavior tracking using EthoVision XT, and literature reviews on HIV/PrEP dynamics and invasive lionfish management"
-
-    skills:
-      - label: Public Speaking, Communication, and Mentorship
-        details: Experienced in **delivering presentations at conferences**, engaging with large classrooms of students, **mentoring students**, and effectively communicating complex scientific concepts to diverse audiences
-      - label: Languages and Cross-Cultural Communication
-        details: English (native), Spanish (conversational B2/C1), German (intermediate), Italian (beginner); experienced teaching and collaborating across U.S. and Costa Rican contexts
-
+    
     other_interests:
-      - bullet: Black belt in Brazilian Jiu-Jitsu (21 years and counting)
-      - bullet: Homesteading (gardening, canning, orcharding, beekeeping, chicken keeping, etc.)
-      - bullet: Member, former board member, and frequent volunteer coach of the Portland Timberfish (LGBT Masters Swimming Program)
-      - bullet: Co-founder of Roll Out, an international queer grappling community and predecessor to Triangles Everywhere
-      - bullet: Co-founder of Triangles Everywhere, an international queer Brazilian Jiu-Jitsu community
-      - bullet: Languages (English [native], Spanish [conversational], German [intermediate], Italian [beginner])
+      - bullet: Homesteading (gardening, orcharding, beekeeping, chicken keeping, gourmet mushroom cultivation, etc.)
+      - bullet: Cooking, baking, and food preservation (fermentation, canning, pickling, dehydration, etc.)
 
 design:
   theme: classic
